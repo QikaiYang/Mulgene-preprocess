@@ -1,0 +1,8 @@
+Reference Lists:
+[1] Erin Molloy "compare_trees.py" https://github.com/ekmolloy/njmerge
+[2] Siavash Mirarab "ASTRAL" https://github.com/smirarab/ASTRAL
+[3] MulRF: a software package for phylogenetic analysis using multi-copy gene trees
+Ruchi Chaudhary, David Fernández-Baca, and J. Gordon Burleigh, Bioinformatics, doi:10.1093/bioinformatics/btu648. 
+[4] Inferring Species Trees from Incongruent Multi-Copy Gene Trees Using the Robinson-Foulds Distance
+Ruchi Chaudhary, J. Gordon Burleigh, and David Fernández-Baca, Algorithms for Molecular Biology 8:28, 2013. 
+

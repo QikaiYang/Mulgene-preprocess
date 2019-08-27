@@ -1,0 +1,18 @@
+human   Human
+chimp   Chimp
+bonobo  Bonobo
+gorilla Gorilla
+orangutan   Orangutan
+gibbon      Gibbon
+baboon      Baboon
+rhe_macaque Rhesus macaque
+cyn_macaque Cynomolgus macaque
+vervet      Vervet monkey
+sq_monkey   Squirrel monkey
+marmoset    Marmoset
+tarsier     Tarsier
+bushbaby    Bushbaby
+mouse_lemur Mouse lemur
+flying_lemur    Flying lemur
+treeshrew   Treeshrew
+mouse       Mouse

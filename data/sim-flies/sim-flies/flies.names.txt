@@ -1,0 +1,12 @@
+dmel    D. melanogaster
+dsim    D. simulans
+dsec    D. sechellia
+dere    D. erecta
+dyak    D. yakuba
+dana    D. ananassae
+dpse    D. pseudoobscura
+dper    D. persimilis
+dwil    D. willistoni
+dmoj    D. mojavensis
+dvir    D. virilis
+dgri    D. grimshawi

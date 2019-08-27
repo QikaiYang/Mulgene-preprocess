@@ -1,0 +1,14 @@
+command: ./executables/MulRFSupertreeLin -i /home/qikaiy2/Downloads/poster/MulRF1.2/inputData/mulrf_origin/sim-primates.75e3-4x.gtrees_TempTree.mulrf -o ./outputData/sim-primates_16cba580856/sim-primatesOut1.newick --inputrees
+input file: /home/qikaiy2/Downloads/poster/MulRF1.2/inputData/mulrf_origin/sim-primates.75e3-4x.gtrees_TempTree.mulrf
+output file: ./outputData/sim-primates_16cba580856/sim-primatesOut1.newick
+seed: 1566494427
+Reading input trees: 1..10..100..500
+Input trees: 500
+Taxa: 17
+Input tree nodes: 18464 (9482 taxa)
+Building initial species tree...
+Elapsed time in building initial tree: 0s 
+
+Current RF Score: 12954.00Current RF Score: 12432.00Current RF Score: 11960.00Current RF Score: 11390.00Current RF Score: 10872.00Current RF Score: 10236.00Current RF Score: 9692.00Current RF Score: 8936.00Current RF Score: 8404.00Current RF Score: 7462.00Current RF Score: 7462.00
+SPR neighborhood searches: 10
+Total elapsed time: 16s 

@@ -1,0 +1,1504 @@
+[ Species Tree: Unrooted RF Score = 2453.00]
+((((((dpse,dper),(((dyak,dere),((dsim,dsec),dmel)),dana)),dwil),dgri),dmoj),dvir);
+
+[ Gene Tree 0 MulRF Score = 5.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dsim),dmel),(dere,dyak)),dana),dwil),((dper,dpse),(dwil,dwil))),dgri));
+
+[ Gene Tree 1 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dmel),dere),dyak),dsec),(dper,dpse)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 2 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),(((((((dsim,dmel),dere),dyak),dsec),dana),(dpse,dper)),dwil)));
+
+[ Gene Tree 3 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),dere),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 4 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),((((dsec,dsim),dere),dyak),dmel)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 5 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),(dana,dana)),((dere,dyak),((dsim,dsec),dmel))),dwil),dgri),dmoj));
+
+[ Gene Tree 6 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dmel),dsim),(dyak,dere)),(dana,dana)),dwil),(dpse,dper)),dgri),dmoj));
+
+[ Gene Tree 7 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,(((((((dsec,dmel),dsim),dyak),dere),dana),(dper,dpse)),dwil)),dgri));
+
+[ Gene Tree 8 MulRF Score = 12.00]
+[&WEIGHT=1.00](dmoj,((dmoj,((((dpse,dper),dana),((dere,dsec),((dmel,dsim),dyak))),dwil)),(dvir,dgri)));
+
+[ Gene Tree 9 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dgri,dgri),((((dper,dpse),((((dsim,dsec),dmel),dyak),dere)),dana),dwil)),dvir));
+
+[ Gene Tree 10 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dmel),dsim),dere),dyak),(dper,dpse)),(dwil,dana)),dgri),dvir));
+
+[ Gene Tree 11 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),dana),dwil),(((dsim,dmel),dsec),(dere,dyak))),dvir),dgri));
+
+[ Gene Tree 12 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((dere,dyak),((dsec,dsim),dmel))),dwil),dgri),dmoj));
+
+[ Gene Tree 13 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((dsec,dsim),dmel),(dyak,dere)),(dpse,dper)),((dwil,dwil),dana)),dgri),dvir));
+
+[ Gene Tree 14 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((((dsim,dsec),dmel),(dere,dyak)),dyak)),dwil),dgri),dmoj));
+
+[ Gene Tree 15 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((dpse,dper),dana),(((dsec,dsim),dmel),(dere,dyak)))),dgri),(dmoj,dmoj)));
+
+[ Gene Tree 16 MulRF Score = 6.00]
+[&WEIGHT=1.00](dgri,(dwil,((((dsec,dmel),((dsim,dyak),dere)),dana),(dpse,dper))));
+
+[ Gene Tree 17 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(((dsec,dmel),((dyak,dere),dsim)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 18 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dwil,dwil),(((((dmel,dsec),dsim),dyak),dere),(dper,dpse))),(dmoj,dgri)));
+
+[ Gene Tree 19 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dmel),dsim),(dyak,dere)),(dpse,dper)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 20 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),dana),(((dere,dyak),dsim),dmel)),dwil),(dgri,dvir)));
+
+[ Gene Tree 21 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(dgri,(((dpse,dper),dana),((dmel,dsim),((dere,dyak),dsec)))));
+
+[ Gene Tree 22 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,(((dper,dpse),((((dsec,dsim),dmel),(dyak,dere)),dana)),dwil)),dmoj));
+
+[ Gene Tree 23 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),dana),((dere,dyak),((dsim,dsec),dmel))),dwil),dmoj),dgri));
+
+[ Gene Tree 24 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dwil,((dpse,dper),(((dsec,dsim),((dyak,dere),dmel)),dana))),dgri));
+
+[ Gene Tree 25 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),dana),((dere,dyak),((dmel,dsim),dsec))),dwil),dgri),dvir));
+
+[ Gene Tree 26 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dana,((((dsim,dmel),dsec),(dere,dyak)),(dper,dpse))),dgri),dmoj));
+
+[ Gene Tree 27 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dere,dyak),(dsim,dsec)),dmel),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 28 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsec,dmel),dsim),(dere,dyak)),dana),(dper,dpse))),dgri),dmoj));
+
+[ Gene Tree 29 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((dwil,dana),((dpse,dper),((((dsec,dsim),dmel),dere),dyak))),dgri),dvir));
+
+[ Gene Tree 30 MulRF Score = 27.00]
+[&WEIGHT=1.00](dvir,(((((((((((dsec,dsim),dmel),dyak),dere),(dyak,((dmel,(dsec,dsim)),dere))),dana),((dere,dyak),((dsec,dsim),dmel))),((dpse,dper),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 31 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((dsim,dsec),dmel),(dyak,dere)),((dana,dana),(dpse,dper)))),dgri),dmoj));
+
+[ Gene Tree 32 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),dwil),((((dsim,dsec),dmel),(dere,dyak)),dana)),dvir),dgri));
+
+[ Gene Tree 33 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),(((dere,dyak),((dmel,dsec),dsim)),dana)),dwil),((dmoj,dvir),dgri)),dgri),dmoj));
+
+[ Gene Tree 34 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dwil,((((dere,dyak),((dsec,dsim),dmel)),dana),(dpse,dper))),dgri));
+
+[ Gene Tree 35 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((dmel,dsim),(dsec,dyak)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 36 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dmoj,((((dyak,dere),((dsim,dsec),dmel)),dana),(dwil,dwil))),dgri),dvir));
+
+[ Gene Tree 37 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),((((dsim,dsec),((dere,dmel),dyak)),dana),dwil)));
+
+[ Gene Tree 38 MulRF Score = 24.00]
+[&WEIGHT=1.00](dere,((((((dper,dpse),dana),((dper,dpse),(dwil,dwil))),((dsim,(dmel,dsec)),(dere,dyak))),((dsim,dmel),dsec)),dyak));
+
+[ Gene Tree 39 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,((((dsim,dsec),(dere,dyak)),dmel),((dper,dpse),dana))),dgri));
+
+[ Gene Tree 40 MulRF Score = 21.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(dana,(dana,dana))),((((dere,dmel),((dsim,dsec),dyak)),(((dere,dyak),(dmel,dsec)),dsim)),dwil)),dgri),dmoj));
+
+[ Gene Tree 41 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),dana),((dyak,dere),((dsec,dsim),dmel))),dwil),dgri),dvir));
+
+[ Gene Tree 42 MulRF Score = 20.00]
+[&WEIGHT=1.00](dvir,(((((((((dere,dyak),((dmel,dsec),dsim)),dana),dana),(dere,(((dsim,dsec),dmel),dyak))),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 43 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),(((((dsec,dmel),dsim),dere),dyak),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 44 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((((dere,dyak),(dsec,dsim)),dmel),((dpse,dper),dana)),dwil)),dvir));
+
+[ Gene Tree 45 MulRF Score = 20.00]
+[&WEIGHT=1.00](dvir,((((((((dere,dsec),(dmel,dsim)),dyak),dere),(((dsim,dmel),dsec),dyak)),((dper,dpse),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 46 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dana,((dper,dpse),((dyak,dere),((dsim,dsec),dmel)))),dwil),dgri),dvir));
+
+[ Gene Tree 47 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsim,dsec),dmel),dere),dyak),(dpse,dper)),dana),dwil),dgri),dvir));
+
+[ Gene Tree 48 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((dyak,dere),((dsim,dsec),dmel)),dana)),dvir),dgri));
+
+[ Gene Tree 49 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((dere,dyak),(dsim,dsec)),dmel)),(dwil,dana)),dgri),dmoj));
+
+[ Gene Tree 50 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dyak,dere),((dsec,dmel),dsim)),dana),dwil),dgri),dvir));
+
+[ Gene Tree 51 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((((dsec,dmel),dsim),dyak),dere),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 52 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((dyak,dere),((dsim,dsec),dmel))),dwil),dgri),dmoj));
+
+[ Gene Tree 53 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dsim),dmel),(dere,dyak)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 54 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dmoj,(((dpse,dper),dwil),(((dyak,dere),((dmel,dsec),dsim)),dana))),dgri),dvir));
+
+[ Gene Tree 55 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dsim),dmel),dyak),dere),((dpse,dper),dana)),dwil),dmoj),dgri));
+
+[ Gene Tree 56 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),(((dsim,dsec),dmel),(dyak,dere))),dwil),dmoj),dgri));
+
+[ Gene Tree 57 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,((((((((dmel,dsim),dyak),(dsec,dere)),(dpse,dper)),dana),dwil),dvir),dgri));
+
+[ Gene Tree 58 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((dana,((dper,dpse),(((dmel,dsim),(dsec,dyak)),dere))),dwil),dgri),dmoj));
+
+[ Gene Tree 59 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dmoj,dgri),(((((((dsec,dsim),dmel),dyak),dere),(dpse,dper)),dana),dwil)),dvir));
+
+[ Gene Tree 60 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,dwil),dmoj));
+
+[ Gene Tree 61 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(((((dsec,dmel),dsim),(dere,dyak)),dana),dwil)));
+
+[ Gene Tree 62 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dmel),dsim),(dyak,dere)),dana),(dpse,dper)),dgri),dmoj));
+
+[ Gene Tree 63 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((dsec,dsim),dmel),(dyak,dere)),((dpse,dper),dana))),dgri),dmoj));
+
+[ Gene Tree 64 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),(dmel,dsec)),dsim),((dper,dpse),dana)),dgri),dmoj));
+
+[ Gene Tree 65 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsim,dsec),dyak),dmel),dere),dana),(dpse,dper)),dwil),dvir),dgri));
+
+[ Gene Tree 66 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dana),(((dsim,dsec),dyak),(dmel,dere))),dwil),dgri));
+
+[ Gene Tree 67 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dmoj,((dpse,dper),((((dsec,dsim),dmel),dyak),dere))),dgri));
+
+[ Gene Tree 68 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,(((((((dsim,dsec),((dere,dyak),dmel)),dana),(dper,dpse)),(dgri,(dvir,dmoj))),dwil),(dmoj,dgri)));
+
+[ Gene Tree 69 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(((dyak,dere),(dsec,dmel)),dsim)),dana),dwil),dmoj));
+
+[ Gene Tree 70 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dyak,dere),(dsim,dsec)),dmel),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 71 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(dgri,(dwil,(((((dsim,dmel),dsec),dere),dyak),((dpse,dper),dana)))));
+
+[ Gene Tree 72 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((((dere,dmel),dyak),(dsec,dsim)),(((dper,dpse),dana),dwil)),dgri),dmoj));
+
+[ Gene Tree 73 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((dpse,dper),(((dere,dyak),((dsim,dsec),dmel)),dana))),dgri),dvir));
+
+[ Gene Tree 74 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),dyak),dere),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 75 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dvir,(((dper,dpse),(((((dsec,dmel),dsim),dyak),dere),dana)),dwil)),dgri));
+
+[ Gene Tree 76 MulRF Score = 23.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),((((((dmel,dsec),dyak),(dere,dsim)),(dyak,((dsec,(dmel,dsim)),dere))),((dyak,dere),(dmel,(dsim,dsec)))),dana)),(dwil,dwil)),((dgri,dgri),dmoj)));
+
+[ Gene Tree 77 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dana,dana),(((dere,dyak),((dsec,dsim),dmel)),(dpse,dper))),dwil),dgri),dvir));
+
+[ Gene Tree 78 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),dwil),(((dana,dana),(((dmel,dsim),dsec),dere)),(dpse,dper))),dgri));
+
+[ Gene Tree 79 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((dana,dwil),((dper,dpse),((dere,dyak),((dsim,dsec),dmel)))),dgri),dvir));
+
+[ Gene Tree 80 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((((((dpse,dper),dana),dwil),(((dmel,dsim),dsec),(dere,dyak))),dvir),dgri),dmoj));
+
+[ Gene Tree 81 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),((((dsec,dsim),dmel),(dere,dyak)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 82 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dyak,dere),((dsim,dmel),dsec)),dana)),dwil),dvir),(dgri,dgri)));
+
+[ Gene Tree 83 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dmel),dsim),(dere,dyak)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 84 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dwil,(((((dsim,dmel),dsec),(dyak,dere)),dana),(dpse,dper))),(dgri,dvir)));
+
+[ Gene Tree 85 MulRF Score = 20.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),((((dmel,dsim),dsec),dere),((dere,(dyak,(dsim,(dmel,dsec)))),dyak))),dwil),dana),dgri),(dvir,dvir)));
+
+[ Gene Tree 86 MulRF Score = 19.00]
+[&WEIGHT=1.00](dmoj,((((((((dmel,dsec),dsim),(((((dmel,dsim),(dere,dyak)),(dsec,(dsec,(dmel,dsim)))),dyak),dere)),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 87 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((((dsim,dmel),dere),(dsec,dyak)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 88 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((((dsec,dsim),dmel),(dyak,dere)),dana)),dwil),dmoj),dgri));
+
+[ Gene Tree 89 MulRF Score = 4.00]
+[&WEIGHT=1.00](dper,(((dana,dwil),((((dsec,dsim),dmel),dyak),dere)),dpse));
+
+[ Gene Tree 90 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(dwil,((((((dsim,dmel),dsec),dere),dyak),dana),(dpse,dper)))));
+
+[ Gene Tree 91 MulRF Score = 16.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dmel),dere),dsim),dyak),(dana,dwil)),((dmoj,dgri),dvir)),(dgri,dmoj)));
+
+[ Gene Tree 92 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((dyak,dere),((dsec,dmel),dsim)),dana),(dwil,((dpse,dper),(dpse,dper)))),dgri),dvir));
+
+[ Gene Tree 93 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((((dsim,dsec),dmel),dere),dyak),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 94 MulRF Score = 3.00]
+[&WEIGHT=1.00](dmoj,(((((dwil,dwil),dwil),((((((dsec,dsim),dmel),dere),dyak),dana),(dpse,dper))),dgri),dvir));
+
+[ Gene Tree 95 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dere,dyak),((dsec,dsim),dmel)),dana),(dpse,dper)),dwil),dmoj),dgri));
+
+[ Gene Tree 96 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),((((dana,dana),(dper,dpse)),((((dsim,dmel),dsec),dyak),dere)),dwil)));
+
+[ Gene Tree 97 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),(dana,((((((dmel,dsim),dsec),dere),dyak),(dper,dpse)),dwil))),dmoj));
+
+[ Gene Tree 98 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,((dpse,dper),(((((dsec,dsim),dmel),dere),dyak),dana))),dgri),dmoj));
+
+[ Gene Tree 99 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),((((((dsim,dsec),dyak),dmel),dere),((dper,dpse),(dana,(dpse,dper)))),dwil)),dmoj));
+
+[ Gene Tree 100 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dmel),(dere,dyak)),dwil),((dpse,dper),dana)),dgri),dmoj),dvir));
+
+[ Gene Tree 101 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dere,dyak),(dsec,dmel)),dsim),dana),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 102 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(dgri,(((dpse,dper),dana),dwil)));
+
+[ Gene Tree 103 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((dere,dyak),((dsec,dmel),dsim))),dwil),dgri),dmoj));
+
+[ Gene Tree 104 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(((dsec,dsim),((dyak,dere),dmel)),dana)),dwil),dgri));
+
+[ Gene Tree 105 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dgri,(((((dsim,dsec),((dyak,dere),dmel)),dana),(dper,dpse)),dwil)),dmoj));
+
+[ Gene Tree 106 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsec,dsim),dmel)),dana),((dpse,dper),dwil)),dgri),dmoj));
+
+[ Gene Tree 107 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),dana),(((((dsim,dsec),dmel),dere),dyak),dwil)),dgri),dvir));
+
+[ Gene Tree 108 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((dmoj,(((((dsim,dsec),(dyak,dere)),dmel),dana),((dper,dpse),(dper,dpse)))),dgri));
+
+[ Gene Tree 109 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,((dgri,dmoj),(((dpse,dper),((((dmel,dsim),dsec),dere),dyak)),(dana,dwil))));
+
+[ Gene Tree 110 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(dana,dana)),dwil),dvir),dgri));
+
+[ Gene Tree 111 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),(((dpse,dper),(((((dmel,dsec),dsim),dere),dyak),dana)),dwil)));
+
+[ Gene Tree 112 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dere,dyak),((dsim,dsec),dmel)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 113 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(dmoj,(dwil,((((((dsec,dsim),dmel),dere),dyak),(dper,dpse)),dana))));
+
+[ Gene Tree 114 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((dsim,dsec),dmel),(dyak,dere)),((dper,dpse),dana))),dgri),dvir));
+
+[ Gene Tree 115 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dere,dyak),((dsec,dmel),dsim)),dana)),dwil),(dgri,dgri)),dvir));
+
+[ Gene Tree 116 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dere,dyak),(dmel,dmel)),(dsec,dsim)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 117 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(dgri,((((dper,dpse),((((dmel,dsim),dsec),dyak),dere)),dana),dwil)));
+
+[ Gene Tree 118 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((dsim,dsec),dmel),(dyak,dere)),(dper,dpse)),dana),dwil),(dgri,dmoj)));
+
+[ Gene Tree 119 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),dmel),dere),dyak),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 120 MulRF Score = 2.00]
+[&WEIGHT=1.00](dana,(((((dsec,dsim),dmel),(dyak,dere)),dwil),(dper,dpse)));
+
+[ Gene Tree 121 MulRF Score = 14.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((((dmel,dsim),dsec),dere),dyak),dana),dwil)),(dgri,(dvir,dmoj))),dmoj),dgri));
+
+[ Gene Tree 122 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dere,dyak),((dsec,dsim),dmel)),(dpse,dper)),dana),dwil),dvir));
+
+[ Gene Tree 123 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dsec,dmel),dsim),dyak),dwil),dgri),dvir));
+
+[ Gene Tree 124 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsim),dsec),dmel),(dyak,dyak)),dana),dwil),(dpse,dper)),dgri));
+
+[ Gene Tree 125 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((((dsec,dsim),dmel),dyak),dere),dana)),dwil),(dmoj,dmoj)),dgri));
+
+[ Gene Tree 126 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsec,dsim),dmel)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 127 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsec,dsim),dmel),dyak),dere),dana),dwil),(dpse,dper)),dgri),dvir));
+
+[ Gene Tree 128 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((((((dsim,dsec),dmel),(dyak,dere)),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 129 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dsec),dmel),(dyak,dere)),dana),dwil),dgri),dvir));
+
+[ Gene Tree 130 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((((dsec,dmel),dsim),dere),dyak)),dwil),(dgri,dgri)),dmoj));
+
+[ Gene Tree 131 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),dana),((dyak,dere),((dsim,dsec),dmel))),(dwil,dwil)),dgri),dmoj));
+
+[ Gene Tree 132 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,dwil),dvir));
+
+[ Gene Tree 133 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dmel),dyak),(dsec,dere)),(dper,dpse)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 134 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),(((((dsim,dsec),dmel),dyak),dere),dana)),dwil),(dgri,dvir)));
+
+[ Gene Tree 135 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,(dper,dpse)),((((dsec,dsim),dmel),(dyak,dere)),dana)),dgri));
+
+[ Gene Tree 136 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dwil,dana),(((dere,dyak),((dsim,dsec),dmel)),(dper,dpse))),dgri),dmoj));
+
+[ Gene Tree 137 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((dere,dyak),dmel),(dsim,dsec)),dana)),dgri),dvir));
+
+[ Gene Tree 138 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dana,((dper,dpse),((dyak,dere),((dsim,dsec),dmel)))),dwil),dgri),dmoj));
+
+[ Gene Tree 139 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),(((dyak,dere),((dsim,dsec),dmel)),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 140 MulRF Score = 20.00]
+[&WEIGHT=1.00](dvir,((((((((dyak,dere),(dsec,dsim)),dmel),((dere,dyak),(dsim,(dmel,dsec)))),((dper,dpse),dana)),dwil),dgri),(dvir,dmoj)));
+
+[ Gene Tree 141 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dsec),(dere,dyak)),dmel),(dper,dpse)),dana),dwil),dgri));
+
+[ Gene Tree 142 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((((dmel,dsim),dyak),dsec),dere),dana)),dwil),dmoj),dgri));
+
+[ Gene Tree 143 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,(dgri,((((dere,dyak),((dsim,dmel),dsec)),(dper,dpse)),((dwil,dwil),((dper,dpse),dana)))));
+
+[ Gene Tree 144 MulRF Score = 16.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsim,dsec),dmel),(dyak,dere)),(dyak,((dmel,(dsim,dsec)),dere))),(dana,dana)),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 145 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),dwil),(dana,((dere,dere),(((dsim,dsec),dmel),dyak)))),dvir),dgri));
+
+[ Gene Tree 146 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),(dyak,dere)),dmel),dana),dwil),(dper,dpse)),((dvir,dgri),dmoj)),dgri),dmoj));
+
+[ Gene Tree 147 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((dper,dpse),dana),((((dere,dyak),(dyak,dere)),dsim),(dsec,dmel)))),dgri),dmoj));
+
+[ Gene Tree 148 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,((dana,dana),(dper,dpse))),dvir));
+
+[ Gene Tree 149 MulRF Score = 14.00]
+[&WEIGHT=1.00](dvir,(((((((((dsec,dmel),dsim),(dere,dyak)),(((dsim,dsec),dyak),dere)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 150 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,(dper,dpse)),((dyak,dere),dana)),(dmoj,dgri)));
+
+[ Gene Tree 151 MulRF Score = 16.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((((dsec,dsim),dmel),dyak),dere),(((dyak,dere),(dmel,dsim)),dsec)),dana)),dgri),dmoj));
+
+[ Gene Tree 152 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(dmoj,((((((dsim,dsec),dmel),(dere,dyak)),dana),(dpse,dper)),dwil)));
+
+[ Gene Tree 153 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(((dper,dpse),(((dsim,dsec),dmel),dyak)),dana)));
+
+[ Gene Tree 154 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dyak,dere),((dsec,dmel),dsim)),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 155 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dsim),dmel),dyak),dere),dana),(dper,dpse)),dwil),(dgri,dmoj)));
+
+[ Gene Tree 156 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(((dere,dyak),((dsec,dsim),dmel)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 157 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((((dsim,dsec),dmel),dere),dyak),((dmel,dyak),dere)),(dper,dpse))),dgri),dvir));
+
+[ Gene Tree 158 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((dere,dyak),((dsim,dsec),dmel)),(dpse,dper)),dana)),dgri),dmoj));
+
+[ Gene Tree 159 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsec,dsim),dmel),dere),dyak),dana)),dgri),dmoj));
+
+[ Gene Tree 160 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dgri,(dwil,((dper,dpse),((((dere,dyak),dmel),(dsec,dsim)),dana)))),dgri),dmoj));
+
+[ Gene Tree 161 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((((dmel,dsim),dere),dyak),dsec),dana),(dper,dpse))),dgri),dmoj));
+
+[ Gene Tree 162 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dsim,dmel),dsec),dere),dyak)),dwil),dana),dgri));
+
+[ Gene Tree 163 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((dgri,((((((dmel,dsec),dere),dyak),dsim),((dpse,dper),dana)),dwil)),dvir));
+
+[ Gene Tree 164 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),(dwil,(((dper,dpse),(((dsec,dsim),((dere,dyak),dmel)),dana)),dwil))),dmoj));
+
+[ Gene Tree 165 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((((dmel,dsec),(dsim,(dyak,dere))),dana),dwil),(dpse,dper)),dgri),dmoj));
+
+[ Gene Tree 166 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((((dwil,dwil),dana),((dpse,dper),((((dmel,dsec),dsim),dyak),dere))),dgri),dmoj));
+
+[ Gene Tree 167 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),((((dsim,dsec),dmel),dere),dyak)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 168 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dmel,dsec),dere),(dsim,dyak))),dana),dwil),dgri));
+
+[ Gene Tree 169 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dsim),((dmel,dsec),dere)),((dper,dpse),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 170 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((((((dper,dpse),(((((dsec,dsim),dmel),dyak),dere),dana)),dwil),dgri),(dvir,dmoj)),dgri),dmoj));
+
+[ Gene Tree 171 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),dana),(((dsec,dsim),dmel),(dyak,dere))),dwil),dgri),dvir));
+
+[ Gene Tree 172 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),dwil),dgri),dvir));
+
+[ Gene Tree 173 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dgri,(((((((dsim,dsec),dmel),dyak),dere),dana),(dper,dpse)),dwil)),dmoj));
+
+[ Gene Tree 174 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((((dere,dyak),dmel),(dsec,dsim)),dwil),(dpse,dper)),dvir),dgri));
+
+[ Gene Tree 175 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),(((((dsec,dsim),dmel),dyak),dere),dana)),dwil),dmoj),dgri),dmoj));
+
+[ Gene Tree 176 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((dyak,dere),((dsim,dsec),dmel)),dana),(dpse,dper))),(dgri,dgri)),dvir));
+
+[ Gene Tree 177 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dyak,dere),((dsec,dsim),dmel)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 178 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dmoj,((((((dsim,dsec),dmel),dere),dyak),dana),dwil)),dgri));
+
+[ Gene Tree 179 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dmoj,dgri),((((((dsim,dsec),dmel),dyak),dere),((dpse,dper),dana)),dwil)),dvir));
+
+[ Gene Tree 180 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(dvir,(((dpse,dper),((((dsim,dsec),dmel),(dere,dyak)),dana)),dwil)));
+
+[ Gene Tree 181 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,dwil),dvir));
+
+[ Gene Tree 182 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dmel,dsec),dsim),(dere,dyak)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 183 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),((((((dsec,dsim),dmel),dyak),dere),dana),dwil)),dgri),dvir));
+
+[ Gene Tree 184 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),((dere,dyak),((dsec,dsim),dmel))),(dana,dwil)),dgri),dvir));
+
+[ Gene Tree 185 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((dsim,dsec),dmel),(dere,dyak)),dana),((dpse,dper),dwil)),(dgri,dvir)));
+
+[ Gene Tree 186 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dyak,dere),((dmel,dsim),dsec)),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 187 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((dmel,dsim),((dyak,dere),dsec))),dwil),dgri),dmoj));
+
+[ Gene Tree 188 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),dere),dyak),((dper,dpse),dana)),dwil),dgri),(dvir,dvir)));
+
+[ Gene Tree 189 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dere,dyak),((dsec,dsim),dmel)),(dpse,dper)),dgri),dvir));
+
+[ Gene Tree 190 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((dsim,dsec),dmel),dyak),dere),((dpse,dper),dana)),dgri),dmoj));
+
+[ Gene Tree 191 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),dana),((dere,dyak),((dsec,dsim),dmel))),dwil),dvir),dgri));
+
+[ Gene Tree 192 MulRF Score = 18.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(((((dsec,dsim),dmel),(dyak,dere)),((dsec,dmel),(dere,(dyak,dsim)))),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 193 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),(((((dsec,dmel),dsim),(dyak,dere)),dana),dwil)),dmoj));
+
+[ Gene Tree 194 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(dgri,(dwil,((dper,dpse),((((dsec,dsim),dmel),(dyak,dere)),dana)))));
+
+[ Gene Tree 195 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dyak,dmel),((dsim,dsec),dere)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 196 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((((dyak,dere),((dsec,dsim),dmel)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 197 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dyak,dere),((dsec,dsim),dmel)),(((dana,dana),(dper,dpse)),dwil)),dgri),dvir));
+
+[ Gene Tree 198 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dyak,dere),((dsim,dsec),dmel)),dana),dwil),(dper,dpse)),dgri),dvir));
+
+[ Gene Tree 199 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((((dsec,dsim),dere),dyak),dmel),dana),((dper,dpse),(dper,dpse)))),dgri),dmoj));
+
+[ Gene Tree 200 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((((dere,dyak),((dsim,dsec),dmel)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 201 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),(dpse,dper)),(((dmel,dsec),((dyak,dere),dsim)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 202 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),dana),dwil),dgri),dvir));
+
+[ Gene Tree 203 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((((dsec,dsim),dmel),(dyak,dere)),dana),(((dper,dpse),(dpse,dper)),dwil)),dvir));
+
+[ Gene Tree 204 MulRF Score = 4.00]
+[&WEIGHT=1.00](dana,(((((dsim,dmel),dsec),dyak),(dper,dpse)),(dwil,dwil)));
+
+[ Gene Tree 205 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((((((dsim,dsec),dmel),(dere,dyak)),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 206 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((dere,dyak),((dsec,dsim),dmel)),dana)),dgri),dmoj));
+
+[ Gene Tree 207 MulRF Score = 9.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),(dyak,(((dsec,dsim),dmel),dere))),(((dgri,dgri),dvir),(dwil,dwil))),dgri));
+
+[ Gene Tree 208 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dsec,dsim),dmel),(dere,dyak))),dwil),dgri),dvir));
+
+[ Gene Tree 209 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsec,dsim),dmel),(dyak,dere)),dana),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 210 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dana,((dpse,dper),(((dsec,dmel),dsim),(dere,dyak)))),dwil),dgri),dmoj));
+
+[ Gene Tree 211 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsim,dsec),dmel)),dwil),dana),dgri),dmoj));
+
+[ Gene Tree 212 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dana,dana),((((dsec,dsim),dmel),dyak),dere)),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 213 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dgri,dvir),((((dyak,dere),((dsec,dsim),dmel)),((dper,dpse),dana)),dwil)));
+
+[ Gene Tree 214 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dgri,((((dper,dpse),((dyak,dere),((dsim,dsec),dmel))),dana),dwil)),dmoj));
+
+[ Gene Tree 215 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),((dere,dyak),((dsec,dsim),dmel))),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 216 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),((dyak,dere),((dsim,dsec),dmel))),dana),dgri),dvir));
+
+[ Gene Tree 217 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),dana),dwil),(((dsim,dsec),dyak),(dmel,dere))),(dgri,dgri)),dvir));
+
+[ Gene Tree 218 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((dgri,((((((dsim,dsec),(dere,dyak)),dmel),dana),(dper,dpse)),dwil)),dvir),dmoj));
+
+[ Gene Tree 219 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((((dsec,dsim),dmel),dere),dyak),dana),(dpse,dper)),dwil),dgri),(dmoj,dmoj)));
+
+[ Gene Tree 220 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dgri,((((dpse,dper),(dpse,dper)),dana),dwil)),dvir));
+
+[ Gene Tree 221 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsim,dsec),dmel),dere),dyak),dana),(dper,dpse)),dwil),(dgri,dgri)),dvir));
+
+[ Gene Tree 222 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsec,dsim),dmel),dyak),dere),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 223 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((((dsim,dsec),dmel),dyak),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 224 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dsec),dmel),(dpse,dper)),dana),dwil),dgri),dvir));
+
+[ Gene Tree 225 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dere,dyak),dmel),(dsim,dsec)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 226 MulRF Score = 22.00]
+[&WEIGHT=1.00](dvir,(((((((dper,dpse),dana),(((dmel,dsec),dsim),(dere,dyak))),(((dere,dyak),(dsec,(dsim,dmel))),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 227 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),((((dsim,dsec),dmel),(dyak,dere)),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 228 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dsim,dsim),dsec),((dmel,dyak),dere)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 229 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dsim),dmel),(dyak,dere)),(dpse,dper)),dana),dwil),((dgri,dgri),dmoj)));
+
+[ Gene Tree 230 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),((((dsec,dsim),dmel),dyak),dere)),dwil),dgri));
+
+[ Gene Tree 231 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),(dsim,dsec)),dmel),dere),dyak),((dper,dpse),dana)),dwil),dmoj),dgri));
+
+[ Gene Tree 232 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),(((dyak,dere),((dsec,dsim),dmel)),dana)),dwil),(dvir,dgri)));
+
+[ Gene Tree 233 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((((dere,dyak),(dsim,dmel)),dsec),(dana,dana)),(dper,dpse))),dgri),dvir));
+
+[ Gene Tree 234 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dyak,dere),((dsec,dsim),dmel)),dana)),dwil),dgri),(dvir,dvir)));
+
+[ Gene Tree 235 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(((dsim,dmel),((dyak,dere),dsec)),dana)),(dwil,dwil)),dmoj));
+
+[ Gene Tree 236 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((((dmel,dsim),dsec),dyak),dere),((dper,dpse),dana))),dgri),dvir));
+
+[ Gene Tree 237 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((dper,dpse),((((dsec,dsim),dmel),dere),dyak)),dana)),dgri),dvir));
+
+[ Gene Tree 238 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dana),dwil),dmoj),dgri));
+
+[ Gene Tree 239 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(dper,dpse)),((((dsim,dsec),dmel),(dyak,dere)),dana)),dwil),(dgri,dmoj)));
+
+[ Gene Tree 240 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),dana),dwil),((dmel,dyak),((dsim,dsec),dere))),dgri),dvir));
+
+[ Gene Tree 241 MulRF Score = 7.00]
+[&WEIGHT=1.00](dvir,(((dwil,dwil),dwil),(((((dsec,dsim),dmel),(dyak,dere)),((dper,dpse),dana)),(dmoj,dgri))));
+
+[ Gene Tree 242 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dwil),(((((dsec,dsim),dmel),dyak),dere),dana)),dmoj),dgri));
+
+[ Gene Tree 243 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),((((dper,dpse),(dpse,dper)),(((((dsim,dsec),dmel),dyak),dere),dana)),dwil)),dmoj));
+
+[ Gene Tree 244 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dwil,dwil),(dpse,dper)),((dana,dana),((dere,dyak),((dsim,dsec),dmel)))),dgri),dmoj),dvir));
+
+[ Gene Tree 245 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,(((((((dyak,dere),dmel),dsec),dsim),dana),(dpse,dper)),dwil)),(dgri,dgri)));
+
+[ Gene Tree 246 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dpse,dper),(((((dsec,dsim),dmel),(dyak,dere)),dana),dwil)),(dgri,dmoj)));
+
+[ Gene Tree 247 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),dwil),((dyak,dere),((dsim,dsec),dmel))),dana),dgri),dmoj));
+
+[ Gene Tree 248 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),(dere,dyak)),dmel),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 249 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(dvir,(((((dsec,dsim),dmel),dyak),dere),dana)));
+
+[ Gene Tree 250 MulRF Score = 24.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((((dper,dpse),((dsim,(dsec,dmel)),(dere,dyak))),dana),dwil),(((((dsec,dsim),dmel),dyak),dere),dana))),dvir));
+
+[ Gene Tree 251 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),dwil),dgri),dmoj));
+
+[ Gene Tree 252 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dvir,(((dpse,dper),((dana,dana),((dmel,dsec),((dyak,dere),dsim)))),dwil)),dgri));
+
+[ Gene Tree 253 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dyak,dere),((dsec,dsim),dmel)),dana),(dwil,(dper,dpse))),dgri),dvir));
+
+[ Gene Tree 254 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dmel),dsim),(dere,dyak)),(dper,dpse)),(dana,dwil)),(dgri,dgri)),dmoj));
+
+[ Gene Tree 255 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dwil,((dana,dpse),((((dsec,dsim),dmel),dere),dyak))),(dgri,dmoj)));
+
+[ Gene Tree 256 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),((((dsec,dsim),dmel),dere),dyak)),dwil),dwil),dgri),dmoj));
+
+[ Gene Tree 257 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((dwil,dwil),((dpse,dper),(((dyak,dere),((dsim,dsec),dmel)),dana))),dgri),dvir));
+
+[ Gene Tree 258 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((dpse,dper),dwil),dgri));
+
+[ Gene Tree 259 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dyak,dere),(dsim,dsec)),dmel),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 260 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((((dper,dpse),(((dmel,dsec),dsim),(dere,dyak))),dana),dwil),dgri),dgri),dvir));
+
+[ Gene Tree 261 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dvir,(((dpse,dper),dana),((((dsec,dsim),dmel),dere),dyak))),dgri));
+
+[ Gene Tree 262 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((dgri,((((dere,dyak),((dsim,dsec),dmel)),dana),dwil)),dvir),dmoj));
+
+[ Gene Tree 263 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dvir,dvir),(((((((dsec,dsim),dmel),dere),dyak),dana),(dper,dpse)),dwil)));
+
+[ Gene Tree 264 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,((((((dana,dana),((((dmel,dsec),dsim),dyak),dere)),(dpse,dper)),dwil),(dmoj,dvir)),(dgri,dvir)));
+
+[ Gene Tree 265 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dgri,((((dsim,dsec),dmel),(dere,dyak)),((dpse,dper),dana))),dmoj));
+
+[ Gene Tree 266 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 267 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dyak),(((dsec,dsim),dmel),dere)),dana),(dper,dpse)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 268 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dwil,(((dsim,dsec),dmel),(dere,dyak))),(dper,dpse)),dgri),(dvir,dmoj)));
+
+[ Gene Tree 269 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dgri,((((dyak,dere),((dmel,dsec),dsim)),dana),(dpse,dper))),(dvir,dvir)));
+
+[ Gene Tree 270 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(dwil,((dpse,dper),((((dsim,dsec),dmel),(dyak,dere)),dana)))));
+
+[ Gene Tree 271 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((((((dsec,dsim),dyak),dmel),dere),(dmel,(dsim,dsec))),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 272 MulRF Score = 7.00]
+[&WEIGHT=1.00](dvir,((((dwil,dwil),dwil),((dpse,dper),((((dere,dyak),(dmel,dsim)),dsec),dana))),(dgri,dmoj)));
+
+[ Gene Tree 273 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),((((dsim,dsec),dmel),dere),dyak)),dwil),dgri));
+
+[ Gene Tree 274 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dyak,dere),((dmel,dsec),dsim)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 275 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,(((((((dsec,dsim),(dmel,dere)),dyak),((dper,dpse),dana)),dwil),dvir),dgri));
+
+[ Gene Tree 276 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),dwil),((dere,dyak),((dsec,dmel),dsim))),dgri),dmoj));
+
+[ Gene Tree 277 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsim,dsec),dmel)),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 278 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,((((dpse,dper),(dper,dpse)),((dere,dyak),((dsec,dsim),dmel))),dwil)),dgri));
+
+[ Gene Tree 279 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dana,((((dsim,dsec),dmel),dere),dyak)),dwil),(dper,dpse)),dgri));
+
+[ Gene Tree 280 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),(((dsim,dsec),((dere,dyak),dmel)),dana)),dwil),(dvir,dgri)));
+
+[ Gene Tree 281 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),((((dsec,dsim),dmel),(dyak,dere)),dana)),dwil),dgri));
+
+[ Gene Tree 282 MulRF Score = 3.00]
+[&WEIGHT=1.00](dmoj,((((((dsim,dsec),dmel),(dyak,dere)),((dpse,dper),(dwil,(dwil,dwil)))),dgri),dvir));
+
+[ Gene Tree 283 MulRF Score = 11.00]
+[&WEIGHT=1.00](dmoj,((((((((((dsim,dsec),dmel),dere),dyak),dana),(dper,dpse)),dwil),((dmoj,dvir),(dgri,dgri))),dgri),dvir));
+
+[ Gene Tree 284 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),((((dpse,dper),dana),((dere,dyak),((dsec,dmel),dsim))),dwil)));
+
+[ Gene Tree 285 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),(dana,((dere,dyak),((dsec,dmel),dsim)))),dwil),dgri));
+
+[ Gene Tree 286 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((((dmel,dsim),dsec),dyak),dere),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 287 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dper,dpse),((((dere,dyak),dmel),(dsim,dsec)),dana)),dmoj));
+
+[ Gene Tree 288 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((dyak,dere),((dmel,dsec),dsim))),dwil),dgri),dmoj));
+
+[ Gene Tree 289 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dmel),dyak),dere),dana),(dwil,((dpse,dper),(dper,dpse)))),dgri),dmoj));
+
+[ Gene Tree 290 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dere),dmel),dyak),dana),(dper,dpse)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 291 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((dsec,dmel),dsim),(dyak,dere)),dana)),dvir),dgri));
+
+[ Gene Tree 292 MulRF Score = 30.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dmel),(dere,dyak)),dwil),(((dpse,dper),dana),(dana,(((dere,dmel),((dsim,dsec),dyak)),(dper,dpse))))),dgri),dmoj),dvir));
+
+[ Gene Tree 293 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),((dana,dana),dwil)),dgri),dvir),dmoj));
+
+[ Gene Tree 294 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((((((dmel,dsec),dere),dyak),dsim),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 295 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((dana,dwil),((dper,dpse),((dsec,dere),(dmel,dsim)))),dgri),dvir));
+
+[ Gene Tree 296 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dwil),dana),dgri),dmoj));
+
+[ Gene Tree 297 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((((dmel,dsec),dsim),dere),dyak),dana),(dpse,dper)),dwil),dgri),dmoj),dvir));
+
+[ Gene Tree 298 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((dere,dyak),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 299 MulRF Score = 1.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dsec,dsim),dmel),dere),((dana,dana),dana))),dwil),dgri),dmoj));
+
+[ Gene Tree 300 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),(dpse,dper)),(((dere,dyak),(((dsim,dsec),dsim),(dsec,dmel))),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 301 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),dwil),(((dere,dyak),((dmel,dsim),dsec)),dana)),dgri));
+
+[ Gene Tree 302 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((((dsec,dmel),dsim),dere),dyak),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 303 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((((((dsim,dsec),dmel),(dere,dyak)),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 304 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dsim,dsec),((dyak,dere),dmel)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 305 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dgri,dmoj),((((((dsim,dsec),dmel),dyak),dere),dana),(dpse,dper))));
+
+[ Gene Tree 306 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dmel),(dyak,dere)),(dper,dpse)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 307 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),(((((dsim,dsec),dmel),dyak),dere),dana)),dwil),dvir));
+
+[ Gene Tree 308 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dsim,dsec),((dyak,dere),dmel)),(dper,dpse)),dwil),(dgri,dmoj)));
+
+[ Gene Tree 309 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((dsec,dsim),(dere,dyak)),dmel),((dpse,dper),dana))),dgri),dmoj));
+
+[ Gene Tree 310 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsec,dsim),dmel)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 311 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(((((((dsec,dsim),dmel),dyak),dere),(dper,dpse)),dana),dwil)));
+
+[ Gene Tree 312 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dgri,(dwil,(((((dere,dmel),(dsim,dsec)),dyak),dana),(dper,dpse)))),dvir));
+
+[ Gene Tree 313 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dana),((dyak,dere),((dsim,dsec),dmel))),dwil),(dgri,dmoj)));
+
+[ Gene Tree 314 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dwil),(((dsim,dmel),dsec),dana)),dgri),dmoj));
+
+[ Gene Tree 315 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((((((dmel,dsec),dsim),dyak),dere),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 316 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dyak,dere),((dsec,dsim),dmel)),(dwil,dana)),(dvir,dvir)),dgri));
+
+[ Gene Tree 317 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),(dyak,dere)),dana),(dper,dpse)),dwil),dvir),dgri));
+
+[ Gene Tree 318 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((((dere,dyak),((dsec,dsim),dmel)),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 319 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dere,dyak),((dsec,dsim),dmel)),dwil)),dana),dgri),dvir));
+
+[ Gene Tree 320 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((dvir,dmoj),dwil),dgri),(dgri,dvir)));
+
+[ Gene Tree 321 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(dmoj,(((((dsec,dmel),dsim),(dyak,dere)),dana),dwil)));
+
+[ Gene Tree 322 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dwil,((((((dsim,dsec),dmel),dyak),dere),dana),(dper,dpse))),(dgri,dvir)));
+
+[ Gene Tree 323 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dsim,dmel),dsec),(dere,dyak)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 324 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((dper,dpse),(((dere,dyak),((dsim,dsec),dmel)),dana)),dwil)),dvir));
+
+[ Gene Tree 325 MulRF Score = 0.00]
+[&WEIGHT=1.00](dere,(((((dpse,dper),dwil),dana),((dsec,dsim),dmel)),dyak));
+
+[ Gene Tree 326 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((((dyak,dere),((dsec,dsim),dmel)),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 327 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),(((dsim,dsec),dyak),(dmel,dere))),dana),dwil),dgri),dvir));
+
+[ Gene Tree 328 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dmel,dsim),dsec),(dyak,dere)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 329 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),((dere,dyak),((dsim,dsec),dmel))),dwil),dana),dgri),dmoj));
+
+[ Gene Tree 330 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsec,dsim),dmel)),(dper,dpse)),(dwil,dana)),dgri),dmoj));
+
+[ Gene Tree 331 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),((((dsim,dsec),dmel),dyak),dere)),dana),(dwil,dwil)),dgri),dmoj));
+
+[ Gene Tree 332 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((((dsec,dmel),dyak),dsim),dere),dana),(dper,dpse))),dgri),dvir));
+
+[ Gene Tree 333 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((dere,dyak),dmel),dana),((dper,dpse),dwil)),dgri),dvir));
+
+[ Gene Tree 334 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dmel,dsim),dsec),(dyak,dere)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 335 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((dyak,dere),((dmel,dsim),dsec)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 336 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),((((dmel,dsec),dyak),(dsim,dere)),dana)),(dvir,(dgri,dgri))),dwil));
+
+[ Gene Tree 337 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,((dper,dpse),((((dsec,dsim),dere),(dmel,dyak)),dana))),dgri),dmoj));
+
+[ Gene Tree 338 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dsec),dmel),(dyak,dere)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 339 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((dana,(((((dsim,dsec),dyak),dere),dmel),(dper,dpse))),dwil),dgri),dvir));
+
+[ Gene Tree 340 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dana,dana),((dyak,dere),((dsim,dmel),dsec))),((dper,dpse),dwil)),dgri),dvir));
+
+[ Gene Tree 341 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dmel),dsec),(dyak,dere)),dana),(dpse,dper)),dgri),dvir));
+
+[ Gene Tree 342 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),(((dyak,dere),dmel),(dsim,dsec))),dana),dwil),dgri),dvir));
+
+[ Gene Tree 343 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),dyak),dere),dana),dwil),dgri),dvir));
+
+[ Gene Tree 344 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dmel),dere),dyak),dana),(dpse,dper)),dwil),dgri));
+
+[ Gene Tree 345 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),((((dyak,dere),((dsec,dsim),dmel)),dana),dwil)));
+
+[ Gene Tree 346 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,(dwil,((((dyak,dere),((dsim,dsec),dmel)),dana),(dpse,dper)))),dvir));
+
+[ Gene Tree 347 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dyak,dere),((dsim,dsec),dmel)),dana),(dpse,dper)),dwil),dwil),dmoj),dgri));
+
+[ Gene Tree 348 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dwil,((((dsim,dsec),dmel),(dere,dyak)),dana)),dmoj));
+
+[ Gene Tree 349 MulRF Score = 1.00]
+[&WEIGHT=1.00](dmoj,((((dgri,dgri),dgri),((dpse,dper),((((dsim,dsec),dmel),(dyak,dere)),dana))),dvir));
+
+[ Gene Tree 350 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((((dmel,dsim),(dere,dyak)),dsec),dana),(dper,dpse)),dwil),dvir),dmoj));
+
+[ Gene Tree 351 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dgri,((((dere,dyak),((dmel,dsec),dsim)),dana),((dpse,dper),dwil))),dmoj));
+
+[ Gene Tree 352 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((dsec,dsim),dmel),(dyak,dere))),dana),dgri),dmoj));
+
+[ Gene Tree 353 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,dwil),dmoj));
+
+[ Gene Tree 354 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((((((dsim,dsec),dmel),dyak),dere),((dper,dpse),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 355 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dsim),dmel),(dere,dyak)),dana),((dper,dpse),(dper,dpse))),dwil),dgri),dmoj));
+
+[ Gene Tree 356 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsim,dsec),dere),dyak),dmel),((dpse,dper),dana))),dgri),dmoj));
+
+[ Gene Tree 357 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((((dsec,dmel),dsim),dyak),dere),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 358 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,(((dpse,dper),dana),dwil)),dmoj));
+
+[ Gene Tree 359 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),(((((dsec,dsim),dmel),dere),dyak),dana)),dgri),dvir));
+
+[ Gene Tree 360 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((dsec,dmel),dsim),(dyak,dere)),((dper,dpse),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 361 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((dper,dpse),(dpse,dper)),((((dmel,dsim),dsec),dyak),dere))),dgri),dvir));
+
+[ Gene Tree 362 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dwil,dwil),(((((dsim,dsec),dyak),(dmel,dere)),dana),(dper,dpse))),(dmoj,dgri)));
+
+[ Gene Tree 363 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((((dmel,dsim),dere),dyak),dsec),dana),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 364 MulRF Score = 16.00]
+[&WEIGHT=1.00](dvir,(((((((dper,dpse),dana),((dsec,dmel),((dyak,dsim),dere))),dwil),((dmoj,dvir),dgri)),dgri),dmoj));
+
+[ Gene Tree 365 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),(((((dsec,dmel),dsim),dyak),dere),dana)),dwil),(dvir,dgri)));
+
+[ Gene Tree 366 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),((dyak,dere),((dsec,dmel),dsim))),(dwil,dwil)),dgri),dvir));
+
+[ Gene Tree 367 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,((dgri,((((dana,dana),(((dyak,dere),(dsec,dmel)),dsim)),((dper,dpse),(dper,dpse))),dwil)),dmoj));
+
+[ Gene Tree 368 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),(dper,dpse)),((((dsim,dsec),dmel),(dyak,dere)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 369 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((((dere,dyak),((dsim,dsec),dmel)),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 370 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(dpse,dper)),((((dsec,dsim),dmel),(dyak,dere)),dana)),(dgri,dvir)));
+
+[ Gene Tree 371 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((dwil,dwil),(((((dsim,dsec),dmel),(dere,dyak)),dana),(dpse,dper))),dgri),dvir));
+
+[ Gene Tree 372 MulRF Score = 8.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(((dsim,dmel),(dere,dyak)),dsec)),dana),dwil),(dmoj,dgri)));
+
+[ Gene Tree 373 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),((dere,dyak),((dsec,dsim),dmel))),dana),dwil),(dgri,dvir)));
+
+[ Gene Tree 374 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((((dpse,dper),(dper,dpse)),dana),(((dsim,dsec),dmel),(dere,dyak))),(dwil,dwil)),dgri),dvir));
+
+[ Gene Tree 375 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((dwil,(((dpse,dper),dana),(((dyak,dmel),(dsec,dsim)),dere))),dvir));
+
+[ Gene Tree 376 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dvir,dgri),(((dper,dpse),dana),dwil)));
+
+[ Gene Tree 377 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((((dsec,dsim),dmel),(dyak,dere)),dana),(dpse,dper))),dgri),dvir));
+
+[ Gene Tree 378 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dmoj,((((dper,dpse),((dere,dyak),((dsec,dsim),dmel))),dana),dwil)),dgri));
+
+[ Gene Tree 379 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,((((((((dsim,dsec),dere),dyak),dmel),((dper,dpse),dana)),dwil),dvir),dgri));
+
+[ Gene Tree 380 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),((((dsec,dsim),dmel),dere),dyak)),dana),dwil),dmoj));
+
+[ Gene Tree 381 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),(dper,dpse)),dana),dwil),dmoj),dgri));
+
+[ Gene Tree 382 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,dwil),dmoj));
+
+[ Gene Tree 383 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dwil,((dper,dpse),((((dsim,dsec),dmel),(dere,dyak)),dana))),dmoj));
+
+[ Gene Tree 384 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dsec),(dmel,dere)),dyak),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 385 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dgri,((((dpse,dper),dana),((dyak,dere),((dsec,dsim),dmel))),dwil)),dvir));
+
+[ Gene Tree 386 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dsim),((dere,dyak),dmel)),(dper,dpse)),dwil),dana),dgri),dmoj));
+
+[ Gene Tree 387 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((((dere,dyak),((dsim,dsec),dmel)),dana),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 388 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((((dyak,dmel),((dsec,dsim),dere)),dwil),dgri),dvir));
+
+[ Gene Tree 389 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),dwil),((dyak,dere),((dsim,dsec),dmel))),dgri),dmoj));
+
+[ Gene Tree 390 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((dpse,dper),(((dere,dyak),(dsec,dsim)),dmel)),dana)),dgri),dmoj));
+
+[ Gene Tree 391 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dwil,dwil),((((dyak,dere),((dsim,dsec),dmel)),dana),(dper,dpse))),dgri),dmoj));
+
+[ Gene Tree 392 MulRF Score = 12.00]
+[&WEIGHT=1.00](dmoj,(((((((((dere,dyak),dmel),(dsim,dsec)),((dpse,dper),(dper,dpse))),dana),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 393 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dgri,((((((dyak,dere),(dsec,dmel)),dsim),dana),(dpse,dper)),dwil)),dmoj));
+
+[ Gene Tree 394 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((((dsim,dsec),dmel),dere),dyak),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 395 MulRF Score = 22.00]
+[&WEIGHT=1.00](dvir,((((dwil,((((dyak,dmel),(dere,(dsec,dsim))),dana),(dpse,dper))),((dere,dyak),(dmel,(dsim,dsec)))),dgri),dmoj));
+
+[ Gene Tree 396 MulRF Score = 18.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((((dsim,dsec),(dmel,dere)),dyak),((dsim,(dmel,dsec)),(dere,dyak))),((dper,dpse),(dana,dana)))),dgri),dvir));
+
+[ Gene Tree 397 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),(dwil,((((dere,dyak),((dsim,dsec),dmel)),dana),(dper,dpse)))));
+
+[ Gene Tree 398 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((((((dyak,dere),((dsim,dsec),dmel)),(dper,dpse)),dwil),dgri),dvir));
+
+[ Gene Tree 399 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((dper,dpse),((((((dmel,dsec),dsim),dere),dyak),dana),dwil)),dgri),dvir));
+
+[ Gene Tree 400 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dyak,dere),((dsec,dsim),dmel)),(dper,dpse)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 401 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((dsec,dmel),dsim),(dere,dyak)),dana)),dgri),dmoj));
+
+[ Gene Tree 402 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(dgri,((dper,dpse),(((dana,dana),(((dsim,dsec),dmel),(dere,dyak))),dwil))));
+
+[ Gene Tree 403 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dper,dpse),((((dsim,dmel),dsec),(dere,dyak)),dana)));
+
+[ Gene Tree 404 MulRF Score = 12.00]
+[&WEIGHT=1.00](dvir,((dwil,((((((((dsim,dsec),dmel),dmel),(dsim,dsec)),dere),dyak),dana),(dper,dpse))),(dmoj,dgri)));
+
+[ Gene Tree 405 MulRF Score = 18.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),(((((dmel,dsec),dyak),dsim),(((dsec,(dmel,dsim)),dere),dyak)),dere)),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 406 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dvir,((((((dsec,dsim),dmel),dyak),dana),(dper,dpse)),dwil)),dgri));
+
+[ Gene Tree 407 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((((dere,dyak),(dsim,dsec)),dmel),dana),(dpse,dper)),dwil),(dgri,dgri)));
+
+[ Gene Tree 408 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((dyak,dere),((dsim,dsec),dmel))),dwil),dmoj),dgri));
+
+[ Gene Tree 409 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dere,dyak),((dsec,dsim),dmel)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 410 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((((((dmel,dsim),dsec),dyak),dere),dana),dwil),(dper,dpse)),dgri),dmoj),dvir));
+
+[ Gene Tree 411 MulRF Score = 28.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),(((dper,dpse),dana),((dyak,dere),((dsec,dsim),dmel)))),((((dmel,dsim),dsec),(dyak,dere)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 412 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(dmoj,((dpse,dper),(((dsim,dsec),dmel),(dyak,dere)))));
+
+[ Gene Tree 413 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dgri,((((dpse,dper),(((dsim,dsec),dmel),(dyak,dere))),dana),dwil)),dmoj));
+
+[ Gene Tree 414 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),dmel),dere),dyak),dana),(dpse,dper)),(dwil,dwil)),dgri),dmoj));
+
+[ Gene Tree 415 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),(((dere,dyak),dana),dwil)),dgri),dmoj));
+
+[ Gene Tree 416 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),dyak),dmel),dere),(dpse,dper)),(dwil,dana)),dgri),dgri),dmoj));
+
+[ Gene Tree 417 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),dwil),dgri),dmoj));
+
+[ Gene Tree 418 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),(((dere,dyak),((dsec,dsim),dmel)),dana)),dwil),dgri),(dmoj,dmoj)));
+
+[ Gene Tree 419 MulRF Score = 10.00]
+[&WEIGHT=1.00](dmoj,((((((((dmel,dsim),dsec),dere),dyak),(dper,dpse)),dwil),dana),(dgri,dvir)));
+
+[ Gene Tree 420 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),((((dsec,dsim),dere),(dmel,dyak)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 421 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((((dsim,dsec),dmel),(dyak,dere)),(dper,dpse)),(dwil,dwil)),dana),(dgri,dmoj)));
+
+[ Gene Tree 422 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dgri,dmoj),(((dper,dpse),((((dsim,dsec),dere),(dmel,dyak)),dana)),dwil)));
+
+[ Gene Tree 423 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,((dgri,dvir),(((dper,dpse),dana),dwil)));
+
+[ Gene Tree 424 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),((((dmel,dsec),dsim),dere),dyak)),dwil),dgri),dmoj));
+
+[ Gene Tree 425 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((((dsec,dsim),(dere,dyak)),dmel),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 426 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(((dsec,dsim),((dyak,dere),dmel)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 427 MulRF Score = 22.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),(dpse,dper)),((((dyak,dere),((dsec,dsim),dmel)),((dmel,(dsim,dsec)),(dyak,dere))),dana)),dwil),dvir),dgri));
+
+[ Gene Tree 428 MulRF Score = 16.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsim,dsec),((dmel,dyak),dere)),(dyak,(dmel,(dere,(dsim,dsec))))),(dana,dana)),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 429 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),(((((dsim,dsec),dmel),dyak),dere),dana)),(dwil,dwil)),dgri),dmoj),dvir));
+
+[ Gene Tree 430 MulRF Score = 18.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),(dwil,((((((dsim,dsec),dmel),(dere,dyak)),((dsec,(dsim,dmel)),(dere,dyak))),dana),(dpse,dper)))));
+
+[ Gene Tree 431 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((dvir,((((dmel,dmel),((dsim,dsec),(dere,dyak))),dana),(dpse,dper))),dgri));
+
+[ Gene Tree 432 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((dvir,dgri),dvir),((dpse,dper),((((dere,dyak),((dsec,dsim),dmel)),dana),dwil))));
+
+[ Gene Tree 433 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(dana,((((dsim,dsec),dmel),dere),dyak))),dgri),dmoj),dvir));
+
+[ Gene Tree 434 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),dwil),(((((dsec,dmel),dsim),dyak),dere),(dana,dana))),(dgri,dgri)),dvir));
+
+[ Gene Tree 435 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dana,(((((dsim,dsec),dmel),(dere,dyak)),(dper,dpse)),dwil)),dgri),dmoj));
+
+[ Gene Tree 436 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 437 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),dana),(((dere,dyak),(dsim,dsec)),dmel)),dwil),dgri),dmoj));
+
+[ Gene Tree 438 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dyak,dere),((dsim,dsec),dmel)),dana),((dpse,dper),dwil)),dmoj),dgri));
+
+[ Gene Tree 439 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,((((dpse,dper),((((((dsec,dsim),dmel),dere),dyak),dana),(dwil,dwil))),dgri),dvir));
+
+[ Gene Tree 440 MulRF Score = 18.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),(((((dere,(dsec,dsim)),dmel),dyak),dana),(dper,dpse))),dwil),(dgri,(dvir,dmoj))),dgri),dmoj));
+
+[ Gene Tree 441 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((((dsec,dsim),dmel),(dyak,dere)),dana)),dgri),dvir));
+
+[ Gene Tree 442 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(dgri,(((dper,dpse),((((dsim,dmel),dyak),dere),dsec)),dwil)));
+
+[ Gene Tree 443 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,dwil),dmoj));
+
+[ Gene Tree 444 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),(((dper,dpse),(((dere,dmel),((dsec,dsim),dyak)),dana)),dwil)));
+
+[ Gene Tree 445 MulRF Score = 10.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((dper,dpse),dana),((dsec,dere),((dyak,dsim),dmel)))),dmoj),(dgri,dgri)));
+
+[ Gene Tree 446 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(((dere,dyak),((dsim,dsec),dmel)),dana)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 447 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((dgri,dgri),(((dpse,dper),(((((dsec,dsim),dmel),dyak),(dere,dere)),dana)),dwil)),dmoj));
+
+[ Gene Tree 448 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dere,dyak),((dsim,dsec),dmel)),dana),((dper,dpse),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 449 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dana,((((dmel,dsim),dsec),(dere,dyak)),(dper,dpse))),dwil),dmoj));
+
+[ Gene Tree 450 MulRF Score = 22.00]
+[&WEIGHT=1.00](dmoj,((((((dpse,dper),dana),(dana,((((dsec,dsim),dyak),dere),dmel))),(((dsec,dmel),(dere,dyak)),dsim)),dwil),dvir));
+
+[ Gene Tree 451 MulRF Score = 1.00]
+[&WEIGHT=1.00](dvir,(((dwil,(((((dsec,dsim),dmel),(dere,dyak)),((dana,dana),dana)),(dpse,dper))),dgri),dmoj));
+
+[ Gene Tree 452 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,(((dper,dpse),((dsec,dsim),((dere,dyak),dmel))),dana)),dgri),dvir));
+
+[ Gene Tree 453 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((((dsim,dmel),dsec),dere),dyak),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 454 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((dgri,dvir),dmoj),(((dper,dpse),dana),dwil)),dgri));
+
+[ Gene Tree 455 MulRF Score = 7.00]
+[&WEIGHT=1.00](dmoj,((((((dsim,dsec),((dyak,dere),dmel)),(dper,dpse)),(((dana,dana),dana),dwil)),dgri),dmoj));
+
+[ Gene Tree 456 MulRF Score = 8.00]
+[&WEIGHT=1.00](dmoj,(dvir,(((((((dyak,dsim),dsec),dmel),dere),(dpse,dper)),dana),dwil)));
+
+[ Gene Tree 457 MulRF Score = 16.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),(((((dsim,dmel),dsec),((dmel,(dsec,dsim)),(dyak,dere))),(dere,dyak)),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 458 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((dper,dpse),(((dyak,dmel),(dere,(dsim,dsec))),dana))),dgri),dvir));
+
+[ Gene Tree 459 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),dana),dwil),dgri),dvir));
+
+[ Gene Tree 460 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((dwil,dwil),((((dsim,dmel),dyak),dere),((dper,dper),dpse))),dvir));
+
+[ Gene Tree 461 MulRF Score = 18.00]
+[&WEIGHT=1.00](dmoj,((((((((((dsec,dsim),dmel),dyak),dere),(dere,(((dsec,dsim),dmel),dyak))),(dpse,dper)),dana),dwil),dgri),dvir));
+
+[ Gene Tree 462 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((((dsec,dsim),dmel),dere),dyak),dana),(dper,dpse)),dwil),dgri),dmoj));
+
+[ Gene Tree 463 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((dper,dpse),dana),dwil)),dvir));
+
+[ Gene Tree 464 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),dana),((dere,dyak),((dmel,dsim),dsec))),dwil),(dgri,dvir)));
+
+[ Gene Tree 465 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dpse,dper),(dwil,((((dsim,dmel),dsec),(dyak,dere)),dana))),dgri),dmoj));
+
+[ Gene Tree 466 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((dgri,(dana,(((((dsec,dsim),dmel),(dyak,dere)),(dpse,dper)),dwil))),dmoj));
+
+[ Gene Tree 467 MulRF Score = 30.00]
+[&WEIGHT=1.00](dvir,(((dwil,((((((dere,dyak),(dmel,dsim)),dsec),dana),(dpse,dper)),(((((dsec,dsim),dmel),(dyak,dere)),(dper,dpse)),(dana,(dana,dana))))),dgri),dmoj));
+
+[ Gene Tree 468 MulRF Score = 2.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),(((dyak,dere),((dsec,dmel),dsim)),dana)),dwil),dgri),dvir));
+
+[ Gene Tree 469 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dwil,((dper,dpse),((((dsim,dsec),dere),(dmel,dyak)),dana))),dgri),dmoj));
+
+[ Gene Tree 470 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(dwil,(((dsim,dsec),((dere,dyak),dmel)),dana))),dgri),dmoj));
+
+[ Gene Tree 471 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((dgri,(((dpse,dper),dana),dwil)),dmoj));
+
+[ Gene Tree 472 MulRF Score = 11.00]
+[&WEIGHT=1.00](dmoj,((((((dper,dpse),(dwil,dana)),((dvir,dmoj),dgri)),dgri),dvir),dmoj));
+
+[ Gene Tree 473 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((dmoj,dgri),((((((dsec,dsim),dmel),(dere,dyak)),dana),(dpse,dper)),dwil)));
+
+[ Gene Tree 474 MulRF Score = 13.00]
+[&WEIGHT=1.00](dmoj,(((((dwil,dwil),((((((dsec,dmel),dsim),dere),dyak),dana),(dper,dpse))),(dvir,(dgri,(dmoj,dmoj)))),dgri),dvir));
+
+[ Gene Tree 475 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),dana),dwil),dgri),dmoj));
+
+[ Gene Tree 476 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(dgri,(((((((dsim,dsec),dmel),dere),dyak),dana),(dper,dpse)),dwil)));
+
+[ Gene Tree 477 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dwil,dwil),((((dsec,dsim),dmel),(dere,dyak)),dana)),dgri),dmoj));
+
+[ Gene Tree 478 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((((dsim,dsec),dmel),(dyak,dere)),(dpse,dper)),dwil),dgri),dvir));
+
+[ Gene Tree 479 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((dpse,dper),dwil),((((dsim,dsec),dmel),(dere,dyak)),dana)),dgri),dmoj));
+
+[ Gene Tree 480 MulRF Score = 18.00]
+[&WEIGHT=1.00](dvir,(((((((((dsim,dsec),dyak),dere),dmel),((dere,dyak),(dmel,(dsec,dsim)))),((dpse,dper),dana)),dwil),dgri),dmoj));
+
+[ Gene Tree 481 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((dper,dpse),((((dsim,dsec),dmel),(dere,dyak)),dana)),dwil)),dvir));
+
+[ Gene Tree 482 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dpse,dper),dana),dwil),dgri),dvir));
+
+[ Gene Tree 483 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(dgri,(dwil,((((dyak,dere),((dsim,dsec),dmel)),dana),((dper,dpse),dper)))));
+
+[ Gene Tree 484 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dyak,dere),((dsec,dmel),dsim)),dana),(dpse,dper)),dwil),dgri),dmoj));
+
+[ Gene Tree 485 MulRF Score = 20.00]
+[&WEIGHT=1.00](dper,(((((dere,(dyak,((dsim,dsec),dmel))),(((dmel,dsim),dere),(dsec,dyak))),dana),(dpse,dper)),dpse));
+
+[ Gene Tree 486 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(dvir,((((dper,dpse),dana),((dyak,dere),((dmel,dsim),dsec))),dwil)));
+
+[ Gene Tree 487 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),(dwil,dana)),((dere,dyak),((dmel,dsec),dsim))),dgri),dvir));
+
+[ Gene Tree 488 MulRF Score = 20.00]
+[&WEIGHT=1.00](dvir,((((((((((dsec,dsim),dmel),dere),dyak),((dere,((dsec,dsim),dmel)),dyak)),dana),((dpse,dper),(dper,dpse))),dwil),dgri),dvir));
+
+[ Gene Tree 489 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((((dpse,dper),((dyak,dere),((dmel,dsim),dsec))),dana),(dwil,dwil)),dgri),dmoj));
+
+[ Gene Tree 490 MulRF Score = 6.00]
+[&WEIGHT=1.00](dmoj,((((((((dsec,dsim),dyak),dere),dmel),(dpse,dper)),dana),dwil),dgri));
+
+[ Gene Tree 491 MulRF Score = 0.00]
+[&WEIGHT=1.00](dmoj,(((((dper,dpse),dana),dwil),dgri),dvir));
+
+[ Gene Tree 492 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),(dwil,((((dsec,dmel),dsim),(dyak,dere)),dana))),dgri),dmoj));
+
+[ Gene Tree 493 MulRF Score = 0.00]
+[&WEIGHT=1.00](dvir,((((dper,dpse),((((dsec,dsim),dmel),(dyak,dere)),dana)),dgri),dmoj));
+
+[ Gene Tree 494 MulRF Score = 6.00]
+[&WEIGHT=1.00](dvir,(((((dper,dpse),dwil),((((dyak,dere),dsim),(dsec,dmel)),dana)),dgri),dmoj));
+
+[ Gene Tree 495 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,(((((((dsec,dsim),dmel),(dere,dyak)),dana),(dper,dpse)),dwil),(dmoj,dgri)));
+
+[ Gene Tree 496 MulRF Score = 4.00]
+[&WEIGHT=1.00](dvir,(((dere,(((dmel,dsec),dsim),dyak)),dgri),dmoj));
+
+[ Gene Tree 497 MulRF Score = 2.00]
+[&WEIGHT=1.00](dvir,((((((dper,dpse),dana),((dere,dyak),((dsim,dsec),dmel))),dwil),dgri),dmoj));
+
+[ Gene Tree 498 MulRF Score = 4.00]
+[&WEIGHT=1.00](dmoj,(((dwil,((dper,dpse),(((((dere,dyak),dsim),dsec),dmel),dana))),dgri),dvir));
+
+[ Gene Tree 499 MulRF Score = 16.00]
+[&WEIGHT=1.00](dmoj,((dgri,(((dpse,dper),((((dsim,dmel),dsec),(dyak,dere)),((dyak,(dmel,(dsim,dsec))),dere))),dwil)),dvir));
+
+[ Time 0d 0h 0m 5s ]

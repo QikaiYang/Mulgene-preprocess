@@ -1,0 +1,1504 @@
+[ Species Tree: Unrooted RF Score = 3924.00]
+(((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),(((((bonobo,chimp),human),gorilla),orangutan),gibbon)),((rhe_macaque,cyn_macaque),baboon)),vervet);
+
+[ Gene Tree 0 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((((marmoset,sq_monkey),tarsier),flying_lemur),mouse_lemur));
+
+[ Gene Tree 1 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((bushbaby,mouse_lemur),((treeshrew,treeshrew),flying_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon),orangutan),(chimp,bonobo)),gorilla));
+
+[ Gene Tree 2 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((bushbaby,bushbaby),mouse_lemur)),(tarsier,tarsier)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 3 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 4 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),human),gorilla),bonobo));
+
+[ Gene Tree 5 MulRF Score = 44.00]
+[&WEIGHT=1.00](human,((((((((((bushbaby,mouse_lemur),treeshrew),(tarsier,tarsier)),((((orangutan,((human,(chimp,bonobo)),gorilla)),gibbon),(((rhe_macaque,cyn_macaque),baboon),vervet)),(sq_monkey,marmoset))),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 6 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 7 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),flying_lemur),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),((rhe_macaque,cyn_macaque),vervet))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 8 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((flying_lemur,treeshrew),bushbaby),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 9 MulRF Score = 7.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),(treeshrew,flying_lemur)),(mouse_lemur,bushbaby)),(marmoset,sq_monkey)),tarsier),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 10 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),tarsier),((sq_monkey,sq_monkey),marmoset)),((rhe_macaque,baboon),cyn_macaque)),gibbon),((human,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 11 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),((marmoset,sq_monkey),sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),human),((chimp,bonobo),gorilla)));
+
+[ Gene Tree 12 MulRF Score = 8.00]
+[&WEIGHT=1.00](gorilla,((((((((((bushbaby,mouse_lemur),mouse_lemur),bushbaby),(treeshrew,flying_lemur)),(tarsier,tarsier)),sq_monkey),gibbon),((vervet,(rhe_macaque,cyn_macaque)),baboon)),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 13 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),(flying_lemur,flying_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),((((bonobo,chimp),gorilla),human),(gibbon,gibbon))));
+
+[ Gene Tree 14 MulRF Score = 14.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,bushbaby),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),(vervet,baboon)),(baboon,(vervet,(cyn_macaque,rhe_macaque))))),gibbon),(((bonobo,human),chimp),gorilla)));
+
+[ Gene Tree 15 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),(gibbon,gibbon)),orangutan),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 16 MulRF Score = 9.00]
+[&WEIGHT=1.00](bonobo,((((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),mouse_lemur)),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(human,orangutan)),(gorilla,chimp)));
+
+[ Gene Tree 17 MulRF Score = 38.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),((((rhe_macaque,cyn_macaque),(vervet,baboon)),(gibbon,(((chimp,bonobo),(gorilla,human)),orangutan))),((sq_monkey,sq_monkey),marmoset))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 18 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 19 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),((gorilla,human),(bonobo,chimp))));
+
+[ Gene Tree 20 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,((((((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 21 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),gorilla),bonobo));
+
+[ Gene Tree 22 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((((mouse_lemur,bushbaby),bushbaby),(flying_lemur,flying_lemur)),tarsier),sq_monkey),((cyn_macaque,rhe_macaque),baboon)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 23 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,(((treeshrew,flying_lemur),((sq_monkey,marmoset),tarsier)),bushbaby));
+
+[ Gene Tree 24 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 25 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(tarsier,tarsier)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 26 MulRF Score = 44.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,mouse_lemur),tarsier),((sq_monkey,marmoset),((gibbon,(orangutan,((bonobo,gorilla),(human,chimp)))),(vervet,(baboon,(rhe_macaque,cyn_macaque)))))),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 27 MulRF Score = 46.00]
+[&WEIGHT=1.00](human,(((((((((((mouse_lemur,mouse_lemur),bushbaby),(treeshrew,flying_lemur)),(tarsier,((((((chimp,human),gorilla),bonobo),gibbon),(((cyn_macaque,rhe_macaque),vervet),baboon)),(sq_monkey,marmoset)))),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 28 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(((marmoset,marmoset),sq_monkey),sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),((((bonobo,chimp),human),gorilla),gibbon)));
+
+[ Gene Tree 29 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((treeshrew,flying_lemur),((bushbaby,bushbaby),mouse_lemur)),(tarsier,tarsier)),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((chimp,bonobo),gorilla)));
+
+[ Gene Tree 30 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),bushbaby),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),(chimp,human)));
+
+[ Gene Tree 31 MulRF Score = 57.00]
+[&WEIGHT=1.00](orangutan,(((((((((flying_lemur,flying_lemur),treeshrew),(((mouse_lemur,mouse_lemur),bushbaby),((((((((chimp,bonobo),human),gorilla),orangutan),gibbon),((baboon,(cyn_macaque,rhe_macaque)),vervet)),(marmoset,sq_monkey)),tarsier))),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 32 MulRF Score = 2.00]
+[&WEIGHT=1.00](bushbaby,(((((sq_monkey,marmoset),marmoset),tarsier),flying_lemur),mouse_lemur));
+
+[ Gene Tree 33 MulRF Score = 22.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(gibbon,(((human,gorilla),(bonobo,chimp)),orangutan))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 34 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((mouse_lemur,bushbaby),treeshrew),tarsier),((marmoset,marmoset),sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(orangutan,gibbon)),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 35 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 36 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,((((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 37 MulRF Score = 35.00]
+[&WEIGHT=1.00](human,(((((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,((rhe_macaque,cyn_macaque),baboon)),(orangutan,((bonobo,(human,chimp)),gibbon)))),gibbon),(((rhe_macaque,cyn_macaque),baboon),vervet)),orangutan),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 38 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((mouse_lemur,bushbaby),flying_lemur),tarsier),((marmoset,marmoset),sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 39 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,mouse_lemur),tarsier),(marmoset,sq_monkey)),gibbon),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 40 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,(treeshrew,treeshrew)),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(bonobo,chimp)),orangutan),human));
+
+[ Gene Tree 41 MulRF Score = 5.00]
+[&WEIGHT=1.00](gorilla,(((((((((((mouse_lemur,mouse_lemur),mouse_lemur),bushbaby),flying_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(((vervet,vervet),(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 42 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 43 MulRF Score = 2.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,flying_lemur),((((vervet,baboon),(rhe_macaque,cyn_macaque)),gibbon),tarsier)),mouse_lemur));
+
+[ Gene Tree 44 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((bushbaby,mouse_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),((vervet,vervet),((rhe_macaque,cyn_macaque),baboon))),gibbon),orangutan),((bonobo,human),gorilla)));
+
+[ Gene Tree 45 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,treeshrew),flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 46 MulRF Score = 30.00]
+[&WEIGHT=1.00](orangutan,(((((((((((rhe_macaque,cyn_macaque),((rhe_macaque,cyn_macaque),baboon)),vervet),baboon),((marmoset,marmoset),sq_monkey)),tarsier),(mouse_lemur,bushbaby)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 47 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(gibbon,(bonobo,chimp))),(human,gorilla)));
+
+[ Gene Tree 48 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),((((bonobo,chimp),(human,human)),gorilla),(gibbon,gibbon))));
+
+[ Gene Tree 49 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,mouse_lemur),((treeshrew,treeshrew),flying_lemur)),tarsier),(marmoset,sq_monkey)),((baboon,rhe_macaque),(vervet,cyn_macaque))),gibbon),human),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 50 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 51 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),gibbon),((bonobo,chimp),human)));
+
+[ Gene Tree 52 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((flying_lemur,treeshrew),((sq_monkey,marmoset),tarsier)));
+
+[ Gene Tree 53 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((mouse_lemur,mouse_lemur),bushbaby),(treeshrew,flying_lemur)),(marmoset,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 54 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,flying_lemur),(((((rhe_macaque,cyn_macaque),baboon),vervet),(sq_monkey,marmoset)),tarsier)),bushbaby));
+
+[ Gene Tree 55 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((tarsier,(treeshrew,flying_lemur)),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),gorilla),((chimp,bonobo),human)));
+
+[ Gene Tree 56 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 57 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,flying_lemur),tarsier),mouse_lemur));
+
+[ Gene Tree 58 MulRF Score = 33.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((((((chimp,bonobo),human),gorilla),orangutan),gibbon),((rhe_macaque,cyn_macaque),(vervet,baboon)))),vervet),((orangutan,(gorilla,((chimp,bonobo),human))),gibbon)),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 59 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,(((((((cyn_macaque,rhe_macaque),baboon),vervet),(marmoset,sq_monkey)),tarsier),(treeshrew,treeshrew)),bushbaby));
+
+[ Gene Tree 60 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,baboon),rhe_macaque),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 61 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,flying_lemur),mouse_lemur),(tarsier,tarsier)),(marmoset,sq_monkey)),((((cyn_macaque,rhe_macaque),cyn_macaque),baboon),vervet)),orangutan),gibbon),gorilla),human),bonobo));
+
+[ Gene Tree 62 MulRF Score = 58.00]
+[&WEIGHT=1.00](chimp,((((((((((((treeshrew,flying_lemur),bushbaby),(((marmoset,sq_monkey),sq_monkey),(((orangutan,(((chimp,bonobo),gorilla),human)),gibbon),((rhe_macaque,cyn_macaque),(vervet,baboon))))),tarsier),(marmoset,sq_monkey)),((marmoset,sq_monkey),((vervet,(rhe_macaque,cyn_macaque)),(gibbon,((gorilla,(human,(bonobo,chimp))),orangutan))))),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 63 MulRF Score = 9.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,(mouse_lemur,mouse_lemur)),bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),((((cyn_macaque,rhe_macaque),baboon),vervet),(((chimp,human),gorilla),bonobo))),gibbon));
+
+[ Gene Tree 64 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 65 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(mouse_lemur,(treeshrew,flying_lemur)));
+
+[ Gene Tree 66 MulRF Score = 51.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,treeshrew),bushbaby),(tarsier,((((orangutan,(gorilla,(bonobo,(human,chimp)))),gibbon),((rhe_macaque,cyn_macaque),(vervet,baboon))),(marmoset,sq_monkey)))),(tarsier,tarsier)),((marmoset,sq_monkey),(marmoset,sq_monkey))),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((human,bonobo),gorilla),chimp)));
+
+[ Gene Tree 67 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),((sq_monkey,marmoset),(sq_monkey,marmoset))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 68 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(flying_lemur,treeshrew)),tarsier),(marmoset,sq_monkey)),(vervet,baboon)),((human,gorilla),(chimp,bonobo))),gibbon));
+
+[ Gene Tree 69 MulRF Score = 8.00]
+[&WEIGHT=1.00](gorilla,((((((bushbaby,mouse_lemur),treeshrew),flying_lemur),(((cyn_macaque,baboon),vervet),rhe_macaque)),(gibbon,orangutan)),((bonobo,chimp),human)));
+
+[ Gene Tree 70 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 71 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((((((cyn_macaque,rhe_macaque),(baboon,vervet)),(sq_monkey,marmoset)),tarsier),treeshrew),bushbaby));
+
+[ Gene Tree 72 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((bushbaby,bushbaby),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(orangutan,gibbon)),(gorilla,human)),bonobo));
+
+[ Gene Tree 73 MulRF Score = 12.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((human,(chimp,bonobo)),gorilla)),((bonobo,chimp),human)));
+
+[ Gene Tree 74 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,mouse_lemur),tarsier),((marmoset,marmoset),sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 75 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 76 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 77 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),((((rhe_macaque,cyn_macaque),baboon),vervet),gibbon)),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 78 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),((bonobo,chimp),(gorilla,human))),gibbon));
+
+[ Gene Tree 79 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,((mouse_lemur,bushbaby),flying_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 80 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),treeshrew),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),orangutan),gibbon),((chimp,bonobo),human)),gorilla));
+
+[ Gene Tree 81 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((mouse_lemur,bushbaby),treeshrew),((sq_monkey,sq_monkey),marmoset)),(((cyn_macaque,baboon),rhe_macaque),vervet)),(orangutan,gibbon)),((bonobo,human),chimp)));
+
+[ Gene Tree 82 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((treeshrew,flying_lemur),((bushbaby,bushbaby),mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((chimp,bonobo),human),orangutan)),gibbon));
+
+[ Gene Tree 83 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),mouse_lemur),(tarsier,tarsier)),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 84 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((((flying_lemur,flying_lemur),treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),((marmoset,marmoset),sq_monkey)),((((cyn_macaque,cyn_macaque),rhe_macaque),vervet),baboon)),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 85 MulRF Score = 47.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,flying_lemur),treeshrew),mouse_lemur),(tarsier,((((orangutan,(gorilla,((human,bonobo),chimp))),gibbon),(((vervet,baboon),(cyn_macaque,rhe_macaque)),(vervet,((baboon,baboon),(cyn_macaque,rhe_macaque))))),(sq_monkey,marmoset)))),tarsier),(marmoset,sq_monkey)),((((human,bonobo),gorilla),chimp),gibbon)));
+
+[ Gene Tree 86 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 87 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 88 MulRF Score = 14.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(flying_lemur,treeshrew)),tarsier),((marmoset,marmoset),sq_monkey)),((baboon,baboon),(vervet,(rhe_macaque,cyn_macaque)))),gibbon),((((bonobo,human),chimp),gorilla),(gorilla,((chimp,bonobo),human)))));
+
+[ Gene Tree 89 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((((((cyn_macaque,rhe_macaque),baboon),vervet),gibbon),(sq_monkey,marmoset)),flying_lemur),mouse_lemur));
+
+[ Gene Tree 90 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,(((((((tarsier,((flying_lemur,flying_lemur),treeshrew)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),bonobo));
+
+[ Gene Tree 91 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((bonobo,chimp),(human,gorilla))));
+
+[ Gene Tree 92 MulRF Score = 11.00]
+[&WEIGHT=1.00](orangutan,((((((((((((treeshrew,(treeshrew,treeshrew)),treeshrew),treeshrew),flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),gibbon),(human,gorilla)),(chimp,bonobo)));
+
+[ Gene Tree 93 MulRF Score = 37.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,bushbaby),mouse_lemur),treeshrew),((tarsier,tarsier),tarsier)),(sq_monkey,marmoset)),((((baboon,cyn_macaque),vervet),rhe_macaque),(((baboon,(cyn_macaque,rhe_macaque)),vervet),((gibbon,(gorilla,(human,(chimp,bonobo)))),orangutan)))),gibbon),((human,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 94 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,(((((((((treeshrew,flying_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon),orangutan),(gorilla,human)),bonobo));
+
+[ Gene Tree 95 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(marmoset,sq_monkey)),(((((cyn_macaque,rhe_macaque),cyn_macaque),rhe_macaque),baboon),vervet)),gibbon),((gorilla,human),(chimp,bonobo))));
+
+[ Gene Tree 96 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),((sq_monkey,sq_monkey),marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 97 MulRF Score = 10.00]
+[&WEIGHT=1.00](bonobo,((((((((((mouse_lemur,(bushbaby,bushbaby)),((bushbaby,bushbaby),mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),human),gorilla),chimp));
+
+[ Gene Tree 98 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,bushbaby),mouse_lemur),treeshrew),tarsier),((sq_monkey,sq_monkey),marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),orangutan),((human,bonobo),chimp)));
+
+[ Gene Tree 99 MulRF Score = 42.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(((gibbon,(orangutan,(human,(gorilla,(bonobo,chimp))))),((vervet,baboon),(cyn_macaque,rhe_macaque))),(marmoset,sq_monkey))),sq_monkey),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),((gorilla,human),(chimp,bonobo))));
+
+[ Gene Tree 100 MulRF Score = 1.00]
+[&WEIGHT=1.00](bushbaby,((((tarsier,tarsier),tarsier),(treeshrew,treeshrew)),mouse_lemur));
+
+[ Gene Tree 101 MulRF Score = 3.00]
+[&WEIGHT=1.00](orangutan,(((((((((bushbaby,bushbaby),bushbaby),(mouse_lemur,mouse_lemur)),flying_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 102 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((rhe_macaque,baboon),vervet)),gibbon),((gorilla,(bonobo,human)),chimp)));
+
+[ Gene Tree 103 MulRF Score = 3.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(tarsier,tarsier)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)),orangutan),orangutan));
+
+[ Gene Tree 104 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,(((flying_lemur,treeshrew),(((((cyn_macaque,rhe_macaque),vervet),baboon),((sq_monkey,sq_monkey),marmoset)),tarsier)),bushbaby));
+
+[ Gene Tree 105 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((bushbaby,mouse_lemur),treeshrew),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 106 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),bushbaby),(tarsier,tarsier)),((sq_monkey,marmoset),sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((human,chimp),bonobo),orangutan)));
+
+[ Gene Tree 107 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((((mouse_lemur,bushbaby),treeshrew),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),bonobo),chimp));
+
+[ Gene Tree 108 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 109 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 110 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((((mouse_lemur,bushbaby),bushbaby),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 111 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),((bushbaby,bushbaby),mouse_lemur)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 112 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((mouse_lemur,bushbaby),(flying_lemur,treeshrew)),(tarsier,tarsier)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),(orangutan,gibbon)),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 113 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((((mouse_lemur,mouse_lemur),bushbaby),(flying_lemur,treeshrew)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(bonobo,chimp)),human));
+
+[ Gene Tree 114 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,treeshrew),flying_lemur),(bushbaby,mouse_lemur)),(tarsier,tarsier)),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 115 MulRF Score = 9.00]
+[&WEIGHT=1.00](bonobo,((((((((((((treeshrew,treeshrew),treeshrew),flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((vervet,rhe_macaque),baboon),cyn_macaque)),gibbon),orangutan),orangutan),(gorilla,gorilla)),(human,chimp)));
+
+[ Gene Tree 116 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 117 MulRF Score = 69.00]
+[&WEIGHT=1.00](orangutan,((((((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),(((sq_monkey,marmoset),(((rhe_macaque,cyn_macaque),(baboon,vervet)),((gibbon,orangutan),(human,((bonobo,chimp),gorilla))))),tarsier)),tarsier),(orangutan,((gibbon,(gorilla,((human,bonobo),chimp))),(((rhe_macaque,cyn_macaque),vervet),baboon)))),(((baboon,(cyn_macaque,rhe_macaque)),vervet),(gibbon,((orangutan,orangutan),(gorilla,(human,(chimp,bonobo))))))),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 118 MulRF Score = 17.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),flying_lemur),(treeshrew,treeshrew)),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),((gorilla,((human,bonobo),chimp)),orangutan))));
+
+[ Gene Tree 119 MulRF Score = 19.00]
+[&WEIGHT=1.00](chimp,((((((((((flying_lemur,mouse_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(vervet,((cyn_macaque,rhe_macaque),baboon))),(((vervet,vervet),(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),(human,gorilla)),bonobo));
+
+[ Gene Tree 120 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,mouse_lemur),tarsier),(sq_monkey,sq_monkey)),((cyn_macaque,baboon),(vervet,rhe_macaque))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 121 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 122 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((bushbaby,mouse_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((human,bonobo),chimp)));
+
+[ Gene Tree 123 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,(((((((((mouse_lemur,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),(gorilla,human)),bonobo));
+
+[ Gene Tree 124 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,bushbaby),mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 125 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),tarsier),orangutan),((gorilla,human),(chimp,bonobo))));
+
+[ Gene Tree 126 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((flying_lemur,mouse_lemur),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 127 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),((bushbaby,bushbaby),mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 128 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 129 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 130 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((flying_lemur,mouse_lemur),(sq_monkey,marmoset)),(((baboon,cyn_macaque),rhe_macaque),vervet)),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 131 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((gorilla,gorilla),chimp)),human));
+
+[ Gene Tree 132 MulRF Score = 1.00]
+[&WEIGHT=1.00](human,((((((((flying_lemur,(treeshrew,(treeshrew,treeshrew))),bushbaby),tarsier),(sq_monkey,marmoset)),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 133 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,((((((((flying_lemur,treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(gorilla,orangutan)),human),bonobo));
+
+[ Gene Tree 134 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),((cyn_macaque,rhe_macaque),rhe_macaque))),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 135 MulRF Score = 48.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),(((marmoset,sq_monkey),(((cyn_macaque,rhe_macaque),(baboon,vervet)),(gibbon,((((bonobo,chimp),human),orangutan),gorilla)))),tarsier)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 136 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 137 MulRF Score = 36.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((orangutan,(bonobo,(gorilla,(human,chimp)))),gibbon),(baboon,(vervet,(rhe_macaque,cyn_macaque))))),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 138 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(((baboon,cyn_macaque),rhe_macaque),vervet)),gibbon),((bonobo,chimp),human)));
+
+[ Gene Tree 139 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,(((((((((mouse_lemur,bushbaby),treeshrew),sq_monkey),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 140 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((gorilla,(chimp,bonobo)),human)));
+
+[ Gene Tree 141 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((flying_lemur,treeshrew),((bushbaby,bushbaby),mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(orangutan,gorilla)),gibbon),(chimp,bonobo)));
+
+[ Gene Tree 142 MulRF Score = 14.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((vervet,(rhe_macaque,cyn_macaque)),baboon),(((rhe_macaque,cyn_macaque),vervet),baboon))),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 143 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((gorilla,chimp),(human,bonobo))));
+
+[ Gene Tree 144 MulRF Score = 6.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,(treeshrew,treeshrew)),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),orangutan),(chimp,gorilla)),bonobo));
+
+[ Gene Tree 145 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((gorilla,(bonobo,chimp)),human)));
+
+[ Gene Tree 146 MulRF Score = 54.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),(tarsier,((sq_monkey,(marmoset,marmoset)),(((orangutan,((human,bonobo),((chimp,gorilla),((human,gorilla),(chimp,bonobo))))),gibbon),((vervet,(rhe_macaque,(baboon,baboon))),cyn_macaque))))),tarsier),(marmoset,sq_monkey)),((vervet,cyn_macaque),(baboon,rhe_macaque))),gibbon),((gorilla,human),(bonobo,chimp))));
+
+[ Gene Tree 147 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),((gorilla,human),(chimp,bonobo))),gibbon));
+
+[ Gene Tree 148 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((((bushbaby,bushbaby),mouse_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(((baboon,cyn_macaque),rhe_macaque),vervet)),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 149 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,mouse_lemur),flying_lemur),treeshrew),tarsier),marmoset),((vervet,(rhe_macaque,cyn_macaque)),baboon)),(gibbon,gibbon)),orangutan),((human,bonobo),chimp)));
+
+[ Gene Tree 150 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,treeshrew),flying_lemur),(bushbaby,mouse_lemur)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((human,chimp),gorilla),bonobo)));
+
+[ Gene Tree 151 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((((flying_lemur,flying_lemur),treeshrew),((((vervet,baboon),(cyn_macaque,rhe_macaque)),(sq_monkey,marmoset)),tarsier)),bushbaby));
+
+[ Gene Tree 152 MulRF Score = 2.00]
+[&WEIGHT=1.00](bushbaby,((((treeshrew,((treeshrew,treeshrew),treeshrew)),flying_lemur),((marmoset,sq_monkey),tarsier)),mouse_lemur));
+
+[ Gene Tree 153 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),((sq_monkey,sq_monkey),marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((human,gorilla),((chimp,chimp),bonobo))));
+
+[ Gene Tree 154 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,((((((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),human),gorilla),chimp));
+
+[ Gene Tree 155 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),tarsier),(sq_monkey,marmoset)),((((cyn_macaque,rhe_macaque),baboon),vervet),gibbon)),gorilla));
+
+[ Gene Tree 156 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,((((((((mouse_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),(gorilla,(human,chimp))));
+
+[ Gene Tree 157 MulRF Score = 10.00]
+[&WEIGHT=1.00](human,((((((((bushbaby,mouse_lemur),(bushbaby,mouse_lemur)),(treeshrew,treeshrew)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(vervet,baboon))),(orangutan,gibbon)),((bonobo,chimp),(gorilla,gorilla))));
+
+[ Gene Tree 158 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),(marmoset,sq_monkey)),gibbon),(((cyn_macaque,rhe_macaque),vervet),baboon)),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 159 MulRF Score = 6.00]
+[&WEIGHT=1.00](human,((((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((baboon,rhe_macaque),vervet),cyn_macaque)),gibbon),orangutan),gorilla),chimp),bonobo));
+
+[ Gene Tree 160 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),baboon)),(((human,gorilla),orangutan),gibbon)),bonobo));
+
+[ Gene Tree 161 MulRF Score = 8.00]
+[&WEIGHT=1.00](chimp,(((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(bonobo,gorilla)),orangutan),human));
+
+[ Gene Tree 162 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((flying_lemur,treeshrew),(((marmoset,sq_monkey),(((rhe_macaque,cyn_macaque),vervet),baboon)),tarsier)));
+
+[ Gene Tree 163 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((treeshrew,flying_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),gibbon),human),(bonobo,chimp)));
+
+[ Gene Tree 164 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,(treeshrew,treeshrew)),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 165 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(((chimp,bonobo),human),gorilla)),gibbon));
+
+[ Gene Tree 166 MulRF Score = 1.00]
+[&WEIGHT=1.00](mouse_lemur,(((flying_lemur,treeshrew),(((tarsier,tarsier),tarsier),(sq_monkey,marmoset))),bushbaby));
+
+[ Gene Tree 167 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((tarsier,tarsier),(bushbaby,mouse_lemur)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),orangutan),gibbon),human),(chimp,bonobo)));
+
+[ Gene Tree 168 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(flying_lemur,(treeshrew,treeshrew))),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 169 MulRF Score = 21.00]
+[&WEIGHT=1.00](orangutan,(((((((((treeshrew,mouse_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(orangutan,((gorilla,bonobo),(chimp,human)))),orangutan),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 170 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((treeshrew,mouse_lemur),flying_lemur),tarsier),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 171 MulRF Score = 18.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((((cyn_macaque,rhe_macaque),baboon),vervet),((rhe_macaque,vervet),(cyn_macaque,baboon)))),(((gorilla,bonobo),human),chimp)),gibbon));
+
+[ Gene Tree 172 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((bushbaby,mouse_lemur),treeshrew),tarsier),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(((chimp,bonobo),human),(bonobo,chimp))));
+
+[ Gene Tree 173 MulRF Score = 55.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),flying_lemur),(tarsier,((marmoset,sq_monkey),((gibbon,(orangutan,(gorilla,((bonobo,chimp),human)))),(((rhe_macaque,cyn_macaque),vervet),baboon))))),((((((cyn_macaque,rhe_macaque),baboon),vervet),(gibbon,(orangutan,(gorilla,(human,(bonobo,chimp)))))),(sq_monkey,marmoset)),tarsier)),tarsier),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 174 MulRF Score = 41.00]
+[&WEIGHT=1.00](gorilla,((((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),(tarsier,((gibbon,(gorilla,((chimp,bonobo),human))),(((rhe_macaque,cyn_macaque),baboon),vervet)))),tarsier),(((sq_monkey,sq_monkey),sq_monkey),(marmoset,marmoset))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),bonobo),(human,chimp)));
+
+[ Gene Tree 175 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,mouse_lemur),flying_lemur),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 176 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,(((((((((bushbaby,mouse_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),(orangutan,gibbon)),human),gorilla),bonobo));
+
+[ Gene Tree 177 MulRF Score = 38.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,flying_lemur),(treeshrew,(bushbaby,mouse_lemur))),(tarsier,tarsier)),(sq_monkey,marmoset)),(((((cyn_macaque,rhe_macaque),baboon),vervet),((gibbon,orangutan),(gorilla,((chimp,human),bonobo)))),(((cyn_macaque,rhe_macaque),vervet),baboon))),((((chimp,bonobo),gorilla),human),gibbon)));
+
+[ Gene Tree 178 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((((mouse_lemur,mouse_lemur),bushbaby),(flying_lemur,(treeshrew,treeshrew))),tarsier),marmoset),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),human));
+
+[ Gene Tree 179 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(tarsier,tarsier)),((sq_monkey,marmoset),(marmoset,sq_monkey))),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),((chimp,bonobo),(human,gorilla))));
+
+[ Gene Tree 180 MulRF Score = 56.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),((((marmoset,sq_monkey),(((((gorilla,(chimp,bonobo)),human),gibbon),orangutan),(((cyn_macaque,rhe_macaque),baboon),vervet))),tarsier),(bushbaby,mouse_lemur))),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),((human,gorilla),(bonobo,chimp))));
+
+[ Gene Tree 181 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((baboon,rhe_macaque),cyn_macaque),vervet)),gibbon),(((human,chimp),bonobo),gorilla)));
+
+[ Gene Tree 182 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),((((sq_monkey,sq_monkey),sq_monkey),sq_monkey),marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),human),gorilla),bonobo));
+
+[ Gene Tree 183 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,(((((sq_monkey,marmoset),(((rhe_macaque,cyn_macaque),baboon),vervet)),tarsier),(treeshrew,flying_lemur)),bushbaby));
+
+[ Gene Tree 184 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,treeshrew),(bushbaby,mouse_lemur)),flying_lemur),tarsier),(sq_monkey,marmoset)),gibbon),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),(gorilla,human)),bonobo));
+
+[ Gene Tree 185 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 186 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),marmoset),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 187 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),orangutan),gibbon),((chimp,human),gorilla)));
+
+[ Gene Tree 188 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((flying_lemur,flying_lemur),treeshrew),mouse_lemur));
+
+[ Gene Tree 189 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((treeshrew,flying_lemur),mouse_lemur));
+
+[ Gene Tree 190 MulRF Score = 10.00]
+[&WEIGHT=1.00](orangutan,(((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),marmoset),(((vervet,(rhe_macaque,cyn_macaque)),baboon),(((human,bonobo),(chimp,gorilla)),gibbon))));
+
+[ Gene Tree 191 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),((((human,gorilla),bonobo),chimp),gibbon)));
+
+[ Gene Tree 192 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((flying_lemur,bushbaby),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon));
+
+[ Gene Tree 193 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(((baboon,cyn_macaque),rhe_macaque),vervet)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 194 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),((marmoset,marmoset),sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(((gorilla,chimp),human),bonobo)));
+
+[ Gene Tree 195 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,(((((((((mouse_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),((vervet,cyn_macaque),(baboon,rhe_macaque))),gibbon),orangutan),(gorilla,human)),bonobo));
+
+[ Gene Tree 196 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,flying_lemur),(treeshrew,treeshrew)),bushbaby),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 197 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 198 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,flying_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 199 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((((((cyn_macaque,rhe_macaque),baboon),(sq_monkey,marmoset)),tarsier),flying_lemur),bushbaby));
+
+[ Gene Tree 200 MulRF Score = 14.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,mouse_lemur),flying_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((((((chimp,bonobo),human),gorilla),bonobo),(gorilla,chimp)),human)));
+
+[ Gene Tree 201 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 202 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((((treeshrew,tarsier),flying_lemur),bushbaby),mouse_lemur));
+
+[ Gene Tree 203 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,treeshrew),flying_lemur),mouse_lemur),tarsier),(sq_monkey,marmoset)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon));
+
+[ Gene Tree 204 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),bushbaby),mouse_lemur),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),(orangutan,gibbon)),((chimp,bonobo),human)));
+
+[ Gene Tree 205 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((mouse_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),((((cyn_macaque,cyn_macaque),rhe_macaque),baboon),vervet)),gibbon),(gorilla,orangutan)));
+
+[ Gene Tree 206 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),treeshrew),tarsier),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),orangutan),(human,chimp)),bonobo));
+
+[ Gene Tree 207 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((baboon,rhe_macaque),(vervet,cyn_macaque))),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 208 MulRF Score = 44.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),((((orangutan,(((bonobo,chimp),gorilla),human)),gibbon),(((cyn_macaque,rhe_macaque),baboon),vervet)),(marmoset,sq_monkey))),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 209 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((mouse_lemur,mouse_lemur),bushbaby),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),(baboon,baboon)),vervet)),gibbon),((chimp,bonobo),orangutan)));
+
+[ Gene Tree 210 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((((treeshrew,flying_lemur),(bushbaby,bushbaby)),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,rhe_macaque),baboon),cyn_macaque),vervet)),gibbon),orangutan),bonobo),(human,chimp)));
+
+[ Gene Tree 211 MulRF Score = 13.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,((treeshrew,treeshrew),treeshrew)),flying_lemur),((bushbaby,bushbaby),mouse_lemur)),(mouse_lemur,bushbaby)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 212 MulRF Score = 3.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,mouse_lemur),bushbaby),(flying_lemur,((treeshrew,treeshrew),treeshrew))),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 213 MulRF Score = 36.00]
+[&WEIGHT=1.00](bonobo,(((((((((((bushbaby,mouse_lemur),((treeshrew,treeshrew),flying_lemur)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,(vervet,(baboon,rhe_macaque))),(gibbon,((gorilla,((bonobo,chimp),human)),orangutan)))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 214 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((flying_lemur,treeshrew),((((((cyn_macaque,rhe_macaque),baboon),vervet),gibbon),(sq_monkey,marmoset)),tarsier)));
+
+[ Gene Tree 215 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((treeshrew,mouse_lemur),((marmoset,sq_monkey),(marmoset,sq_monkey))),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(orangutan,orangutan)),gorilla),human),bonobo));
+
+[ Gene Tree 216 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,treeshrew),flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,vervet),rhe_macaque),baboon)),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 217 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,flying_lemur),treeshrew),(((mouse_lemur,bushbaby),bushbaby),mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),(vervet,vervet)),baboon)),((((bonobo,chimp),human),gorilla),gibbon)));
+
+[ Gene Tree 218 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,bushbaby),mouse_lemur),(treeshrew,treeshrew)),tarsier),((sq_monkey,marmoset),(sq_monkey,marmoset))),(vervet,baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 219 MulRF Score = 0.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 220 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,(((((marmoset,sq_monkey),sq_monkey),((((rhe_macaque,cyn_macaque),baboon),vervet),gibbon)),tarsier),flying_lemur));
+
+[ Gene Tree 221 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,flying_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),(((human,chimp),bonobo),gorilla)));
+
+[ Gene Tree 222 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((((mouse_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),baboon),(vervet,(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 223 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(orangutan,orangutan)),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 224 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,bushbaby),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((bonobo,chimp),(human,gorilla))));
+
+[ Gene Tree 225 MulRF Score = 12.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,cyn_macaque),baboon),vervet),(vervet,((rhe_macaque,cyn_macaque),baboon)))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 226 MulRF Score = 5.00]
+[&WEIGHT=1.00](orangutan,(((((flying_lemur,bushbaby),((tarsier,tarsier),tarsier)),(marmoset,sq_monkey)),((vervet,((rhe_macaque,cyn_macaque),rhe_macaque)),baboon)),gibbon));
+
+[ Gene Tree 227 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 228 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,cyn_macaque),baboon),vervet),gibbon)),orangutan),(human,gorilla)),bonobo));
+
+[ Gene Tree 229 MulRF Score = 12.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),bushbaby),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,cyn_macaque),vervet),((baboon,(cyn_macaque,rhe_macaque)),vervet)),baboon)),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 230 MulRF Score = 55.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),((((sq_monkey,marmoset),(((orangutan,gibbon),((human,(bonobo,chimp)),gorilla)),(vervet,((rhe_macaque,cyn_macaque),baboon)))),tarsier),(bushbaby,mouse_lemur))),tarsier),((gibbon,(orangutan,((human,chimp),bonobo))),(sq_monkey,marmoset))),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 231 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,cyn_macaque),rhe_macaque),(baboon,vervet))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 232 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),(((chimp,human),bonobo),gorilla)));
+
+[ Gene Tree 233 MulRF Score = 23.00]
+[&WEIGHT=1.00](orangutan,(((((((((bushbaby,bushbaby),mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),((((chimp,(human,bonobo)),gorilla),orangutan),gibbon)),((rhe_macaque,cyn_macaque),baboon)),gibbon),(((bonobo,chimp),human),(gorilla,gorilla))));
+
+[ Gene Tree 234 MulRF Score = 24.00]
+[&WEIGHT=1.00](orangutan,((((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),(cyn_macaque,rhe_macaque)),baboon)),gibbon),(orangutan,(gorilla,(human,(chimp,bonobo))))),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 235 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 236 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),(tarsier,tarsier)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 237 MulRF Score = 60.00]
+[&WEIGHT=1.00](bonobo,((((((((bushbaby,mouse_lemur),(flying_lemur,((treeshrew,treeshrew),(flying_lemur,((bushbaby,mouse_lemur),(tarsier,(((vervet,(baboon,(cyn_macaque,rhe_macaque))),(((((human,(bonobo,chimp)),(chimp,bonobo)),gorilla),orangutan),gibbon)),(marmoset,sq_monkey)))))))),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),((cyn_macaque,rhe_macaque),baboon)),vervet)),gibbon),human),gorilla),chimp));
+
+[ Gene Tree 238 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),treeshrew),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 239 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),orangutan)));
+
+[ Gene Tree 240 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 241 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),baboon)),((((chimp,bonobo),human),gorilla),gibbon)));
+
+[ Gene Tree 242 MulRF Score = 49.00]
+[&WEIGHT=1.00](human,((((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(tarsier,((sq_monkey,marmoset),((baboon,(vervet,(rhe_macaque,cyn_macaque))),(gibbon,(orangutan,((gorilla,human),(chimp,bonobo)))))))),tarsier),((marmoset,marmoset),sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 243 MulRF Score = 9.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),(((vervet,baboon),rhe_macaque),cyn_macaque)),(((human,gorilla),(bonobo,chimp)),gibbon)));
+
+[ Gene Tree 244 MulRF Score = 53.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,(treeshrew,treeshrew)),flying_lemur),((((marmoset,sq_monkey),((gibbon,(orangutan,(gorilla,(human,(chimp,bonobo))))),((baboon,(cyn_macaque,rhe_macaque)),vervet))),tarsier),(bushbaby,mouse_lemur))),bushbaby),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 245 MulRF Score = 3.00]
+[&WEIGHT=1.00](bushbaby,((((treeshrew,treeshrew),flying_lemur),tarsier),((bushbaby,bushbaby),mouse_lemur)));
+
+[ Gene Tree 246 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,(((((((((mouse_lemur,mouse_lemur),bushbaby),((flying_lemur,flying_lemur),treeshrew)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(gorilla,human)),orangutan),bonobo));
+
+[ Gene Tree 247 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,((((((((((bushbaby,mouse_lemur),treeshrew),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 248 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 249 MulRF Score = 8.00]
+[&WEIGHT=1.00](chimp,(((((((((treeshrew,flying_lemur),bushbaby),tarsier),((sq_monkey,marmoset),sq_monkey)),((vervet,baboon),(cyn_macaque,rhe_macaque))),(gibbon,orangutan)),human),gorilla),bonobo));
+
+[ Gene Tree 250 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,(mouse_lemur,bushbaby)),flying_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((human,bonobo),chimp),gorilla)));
+
+[ Gene Tree 251 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((((flying_lemur,flying_lemur),treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),sq_monkey),marmoset),((baboon,vervet),cyn_macaque)),gibbon),((bonobo,chimp),(gorilla,human))));
+
+[ Gene Tree 252 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((human,bonobo),chimp),gorilla)));
+
+[ Gene Tree 253 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,baboon),rhe_macaque),vervet)),gibbon),((gorilla,(chimp,bonobo)),human)));
+
+[ Gene Tree 254 MulRF Score = 5.00]
+[&WEIGHT=1.00](orangutan,(((((((((flying_lemur,flying_lemur),flying_lemur),(treeshrew,treeshrew)),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),gibbon),((vervet,baboon),(cyn_macaque,rhe_macaque))),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 255 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(tarsier,tarsier)),(sq_monkey,marmoset)),((vervet,(vervet,(cyn_macaque,rhe_macaque))),baboon)),gibbon),((gorilla,(chimp,human)),bonobo)));
+
+[ Gene Tree 256 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,mouse_lemur),treeshrew),flying_lemur),(tarsier,tarsier)),marmoset),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 257 MulRF Score = 45.00]
+[&WEIGHT=1.00](chimp,(((((((((flying_lemur,((treeshrew,treeshrew),treeshrew)),(bushbaby,mouse_lemur)),tarsier),((gibbon,((orangutan,((human,(chimp,bonobo)),gorilla)),((cyn_macaque,rhe_macaque),(vervet,baboon)))),(sq_monkey,marmoset))),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,human),gorilla)));
+
+[ Gene Tree 258 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),tarsier),(sq_monkey,marmoset)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),(bonobo,chimp)),human));
+
+[ Gene Tree 259 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),((gorilla,bonobo),(chimp,human))));
+
+[ Gene Tree 260 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((gorilla,(bonobo,human)),chimp)));
+
+[ Gene Tree 261 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((bushbaby,mouse_lemur),((treeshrew,treeshrew),flying_lemur)),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,cyn_macaque),(cyn_macaque,rhe_macaque)),baboon),vervet)),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 262 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((((treeshrew,treeshrew),flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(cyn_macaque,rhe_macaque))),orangutan),gibbon),human),gorilla),chimp));
+
+[ Gene Tree 263 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((flying_lemur,treeshrew),tarsier));
+
+[ Gene Tree 264 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),gorilla)));
+
+[ Gene Tree 265 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((mouse_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 266 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 267 MulRF Score = 22.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),(gibbon,((human,(gorilla,(chimp,bonobo))),orangutan)))),gibbon),orangutan),(gorilla,chimp)),human));
+
+[ Gene Tree 268 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),gorilla)));
+
+[ Gene Tree 269 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,((((((((((mouse_lemur,mouse_lemur),bushbaby),(treeshrew,flying_lemur)),tarsier),(((cyn_macaque,rhe_macaque),baboon),vervet)),sq_monkey),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 270 MulRF Score = 10.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),((((bushbaby,bushbaby),bushbaby),mouse_lemur),(bushbaby,mouse_lemur))),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,rhe_macaque),cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),gorilla),(human,gorilla))));
+
+[ Gene Tree 271 MulRF Score = 13.00]
+[&WEIGHT=1.00](bonobo,((((((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((((cyn_macaque,rhe_macaque),baboon),vervet),gibbon)),orangutan),((bonobo,chimp),gorilla)),human),human),chimp));
+
+[ Gene Tree 272 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),(treeshrew,treeshrew)),(tarsier,tarsier)),(sq_monkey,marmoset)),((vervet,cyn_macaque),(rhe_macaque,baboon))),((((chimp,bonobo),human),gorilla),gibbon)));
+
+[ Gene Tree 273 MulRF Score = 16.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),((sq_monkey,sq_monkey),marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((human,(bonobo,chimp)),gorilla),gibbon)),((bonobo,chimp),(human,gorilla))));
+
+[ Gene Tree 274 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((((flying_lemur,flying_lemur),(treeshrew,treeshrew)),bushbaby),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),bonobo),gorilla),human));
+
+[ Gene Tree 275 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,(mouse_lemur,bushbaby)),flying_lemur),(tarsier,tarsier)),(marmoset,sq_monkey)),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 276 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 277 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),gorilla),((chimp,bonobo),human)));
+
+[ Gene Tree 278 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,bushbaby),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),gorilla),chimp),bonobo));
+
+[ Gene Tree 279 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 280 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),tarsier),((marmoset,marmoset),sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),(gibbon,gibbon)),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 281 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),gibbon),(((human,human),(chimp,bonobo)),gorilla)));
+
+[ Gene Tree 282 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(tarsier,tarsier)),((marmoset,sq_monkey),sq_monkey)),(((cyn_macaque,baboon),vervet),rhe_macaque)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 283 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((((flying_lemur,flying_lemur),treeshrew),((marmoset,sq_monkey),tarsier)),bushbaby));
+
+[ Gene Tree 284 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),mouse_lemur),(tarsier,tarsier)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 285 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 286 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 287 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((treeshrew,flying_lemur),bushbaby));
+
+[ Gene Tree 288 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),bushbaby),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),vervet)),gibbon),orangutan),gorilla),(human,chimp)));
+
+[ Gene Tree 289 MulRF Score = 36.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),bushbaby),((vervet,((((human,chimp),(bonobo,gorilla)),gibbon),orangutan)),(marmoset,sq_monkey))),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 290 MulRF Score = 1.00]
+[&WEIGHT=1.00](bonobo,((((((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 291 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((((mouse_lemur,mouse_lemur),bushbaby),(flying_lemur,flying_lemur)),treeshrew),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 292 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,mouse_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 293 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),((((chimp,bonobo),human),gorilla),gibbon)));
+
+[ Gene Tree 294 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((bushbaby,mouse_lemur),flying_lemur),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),bonobo),chimp));
+
+[ Gene Tree 295 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,baboon),rhe_macaque),vervet)),gibbon),orangutan),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 296 MulRF Score = 1.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,flying_lemur),((marmoset,sq_monkey),((tarsier,tarsier),tarsier))),mouse_lemur));
+
+[ Gene Tree 297 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,bushbaby),(flying_lemur,flying_lemur)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),((bonobo,chimp),human)),gorilla));
+
+[ Gene Tree 298 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),sq_monkey),(((chimp,bonobo),(human,human)),gorilla)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon));
+
+[ Gene Tree 299 MulRF Score = 8.00]
+[&WEIGHT=1.00](chimp,(((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,baboon),(vervet,cyn_macaque))),(orangutan,gibbon)),human),gorilla),bonobo));
+
+[ Gene Tree 300 MulRF Score = 22.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,treeshrew),flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),((vervet,baboon),((cyn_macaque,rhe_macaque),((baboon,(cyn_macaque,rhe_macaque)),vervet)))),(sq_monkey,marmoset)),(gibbon,gibbon)),orangutan),((bonobo,chimp),((bonobo,chimp),gorilla))));
+
+[ Gene Tree 301 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),((((rhe_macaque,cyn_macaque),rhe_macaque),baboon),vervet)),gibbon),(orangutan,orangutan)),human),(bonobo,chimp)));
+
+[ Gene Tree 302 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(marmoset,sq_monkey)),gibbon),(((human,gorilla),bonobo),chimp)));
+
+[ Gene Tree 303 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((((((mouse_lemur,mouse_lemur),bushbaby),(flying_lemur,flying_lemur)),treeshrew),tarsier),((marmoset,sq_monkey),(sq_monkey,marmoset))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 304 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),mouse_lemur),(tarsier,tarsier)),((sq_monkey,marmoset),(sq_monkey,marmoset))),((cyn_macaque,rhe_macaque),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 305 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),mouse_lemur),(tarsier,tarsier)),sq_monkey),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 306 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 307 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((human,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 308 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((tarsier,treeshrew),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),(gorilla,human)));
+
+[ Gene Tree 309 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((flying_lemur,treeshrew),mouse_lemur),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon));
+
+[ Gene Tree 310 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,treeshrew),flying_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((((chimp,bonobo),bonobo),chimp),human)));
+
+[ Gene Tree 311 MulRF Score = 17.00]
+[&WEIGHT=1.00](human,(((((((((((mouse_lemur,mouse_lemur),mouse_lemur),bushbaby),(flying_lemur,flying_lemur)),treeshrew),tarsier),marmoset),((((cyn_macaque,rhe_macaque),vervet),baboon),((baboon,(cyn_macaque,rhe_macaque)),vervet))),gibbon),orangutan),(gorilla,(chimp,bonobo))));
+
+[ Gene Tree 312 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,bushbaby),treeshrew),(tarsier,tarsier)),(marmoset,sq_monkey)),(((baboon,cyn_macaque),rhe_macaque),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 313 MulRF Score = 1.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),((tarsier,tarsier),tarsier)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 314 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),(treeshrew,flying_lemur)),tarsier),((marmoset,marmoset),sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),((((chimp,bonobo),human),gorilla),gibbon)));
+
+[ Gene Tree 315 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 316 MulRF Score = 6.00]
+[&WEIGHT=1.00](human,((((((((mouse_lemur,bushbaby),(flying_lemur,treeshrew)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,baboon),rhe_macaque),vervet)),orangutan),gibbon),((gorilla,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 317 MulRF Score = 11.00]
+[&WEIGHT=1.00](orangutan,(((((((((mouse_lemur,mouse_lemur),mouse_lemur),bushbaby),((treeshrew,flying_lemur),treeshrew)),tarsier),((sq_monkey,marmoset),(marmoset,sq_monkey))),((vervet,(cyn_macaque,rhe_macaque)),baboon)),gibbon),((bonobo,chimp),(gorilla,human))));
+
+[ Gene Tree 318 MulRF Score = 13.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,flying_lemur),(((mouse_lemur,mouse_lemur),mouse_lemur),bushbaby)),tarsier),(marmoset,sq_monkey)),((baboon,vervet),rhe_macaque)),gibbon),orangutan),(gorilla,chimp)),bonobo),((chimp,bonobo),human)));
+
+[ Gene Tree 319 MulRF Score = 7.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,bushbaby),bushbaby),mouse_lemur),(flying_lemur,(treeshrew,treeshrew))),tarsier),(marmoset,sq_monkey)),((vervet,rhe_macaque),baboon)),(((bonobo,chimp),human),orangutan)),gibbon));
+
+[ Gene Tree 320 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,baboon),vervet),rhe_macaque)),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 321 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((treeshrew,flying_lemur),bushbaby),tarsier),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 322 MulRF Score = 6.00]
+[&WEIGHT=1.00](chimp,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),orangutan),((human,bonobo),gorilla)));
+
+[ Gene Tree 323 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),((human,human),((bonobo,chimp),gorilla))));
+
+[ Gene Tree 324 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,bushbaby),treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((human,chimp),bonobo),gorilla)));
+
+[ Gene Tree 325 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 326 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 327 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((((sq_monkey,marmoset),tarsier),flying_lemur),treeshrew));
+
+[ Gene Tree 328 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((treeshrew,treeshrew),flying_lemur),bushbaby),tarsier),((cyn_macaque,rhe_macaque),(vervet,baboon))),(orangutan,gibbon)),((chimp,bonobo),human)));
+
+[ Gene Tree 329 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(orangutan,human)),(chimp,bonobo)));
+
+[ Gene Tree 330 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),(human,chimp)),gorilla));
+
+[ Gene Tree 331 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),bushbaby),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),(chimp,human)));
+
+[ Gene Tree 332 MulRF Score = 8.00]
+[&WEIGHT=1.00](chimp,(((((((((bushbaby,bushbaby),mouse_lemur),flying_lemur),tarsier),((sq_monkey,marmoset),(sq_monkey,marmoset))),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((gorilla,bonobo),human)));
+
+[ Gene Tree 333 MulRF Score = 46.00]
+[&WEIGHT=1.00](chimp,(((((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),(((((orangutan,(human,(gorilla,(bonobo,chimp)))),gibbon),((rhe_macaque,cyn_macaque),(vervet,baboon))),(marmoset,sq_monkey)),tarsier)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),bonobo));
+
+[ Gene Tree 334 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((((((rhe_macaque,cyn_macaque),baboon),vervet),(sq_monkey,marmoset)),tarsier),flying_lemur),mouse_lemur));
+
+[ Gene Tree 335 MulRF Score = 0.00]
+[&WEIGHT=1.00](flying_lemur,(flying_lemur,(treeshrew,treeshrew)));
+
+[ Gene Tree 336 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),((marmoset,marmoset),sq_monkey)),(((cyn_macaque,vervet),rhe_macaque),baboon)),((((chimp,bonobo),human),gorilla),gibbon)));
+
+[ Gene Tree 337 MulRF Score = 42.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(((gibbon,(((human,chimp),(bonobo,gorilla)),orangutan)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(sq_monkey,marmoset))),marmoset),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((gorilla,chimp),(bonobo,human))));
+
+[ Gene Tree 338 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(tarsier,tarsier)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 339 MulRF Score = 23.00]
+[&WEIGHT=1.00](orangutan,((((((((((mouse_lemur,mouse_lemur),mouse_lemur),bushbaby),treeshrew),tarsier),(sq_monkey,marmoset)),((((rhe_macaque,cyn_macaque),baboon),vervet),(gibbon,orangutan))),gibbon),((vervet,baboon),(cyn_macaque,rhe_macaque))),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 340 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 341 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((human,bonobo),gorilla),chimp)));
+
+[ Gene Tree 342 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),flying_lemur),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 343 MulRF Score = 0.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 344 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,bushbaby),flying_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(chimp,human)),(gorilla,bonobo)));
+
+[ Gene Tree 345 MulRF Score = 16.00]
+[&WEIGHT=1.00](gorilla,(((((((bushbaby,mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(((orangutan,orangutan),((bonobo,chimp),human)),gibbon)),gorilla),((chimp,bonobo),human)));
+
+[ Gene Tree 346 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((((cyn_macaque,rhe_macaque),vervet),baboon),gibbon)));
+
+[ Gene Tree 347 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((bushbaby,mouse_lemur),treeshrew),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 348 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),bushbaby),tarsier),(sq_monkey,marmoset)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 349 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),treeshrew),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 350 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),bushbaby),tarsier),((sq_monkey,sq_monkey),marmoset)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),bonobo),((human,chimp),gorilla)));
+
+[ Gene Tree 351 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(human,gorilla)));
+
+[ Gene Tree 352 MulRF Score = 0.00]
+[&WEIGHT=1.00](bonobo,(((((((((((mouse_lemur,mouse_lemur),bushbaby),treeshrew),tarsier),(sq_monkey,marmoset)),(vervet,baboon)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 353 MulRF Score = 10.00]
+[&WEIGHT=1.00](human,(((((((((((bushbaby,mouse_lemur),(mouse_lemur,bushbaby)),treeshrew),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),vervet)),gibbon),orangutan),(human,gorilla)),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 354 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 355 MulRF Score = 3.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),bushbaby),((tarsier,tarsier),tarsier)),sq_monkey),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 356 MulRF Score = 46.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(tarsier,((marmoset,sq_monkey),(((rhe_macaque,cyn_macaque),(baboon,vervet)),((orangutan,(((bonobo,human),chimp),gorilla)),gibbon))))),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(chimp,bonobo)),human));
+
+[ Gene Tree 357 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),marmoset),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),(bonobo,chimp)));
+
+[ Gene Tree 358 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),orangutan),(((rhe_macaque,cyn_macaque),baboon),vervet)),gorilla),bonobo),chimp));
+
+[ Gene Tree 359 MulRF Score = 32.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),(tarsier,tarsier)),(marmoset,sq_monkey)),(((((chimp,bonobo),(gorilla,human)),gibbon),orangutan),((cyn_macaque,rhe_macaque),vervet))),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((gorilla,human),bonobo)));
+
+[ Gene Tree 360 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,bushbaby),(mouse_lemur,mouse_lemur)),treeshrew),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(baboon,vervet))),((gorilla,(bonobo,chimp)),human)),gibbon));
+
+[ Gene Tree 361 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),gibbon),(((cyn_macaque,rhe_macaque),baboon),vervet)),((chimp,bonobo),(human,gorilla))));
+
+[ Gene Tree 362 MulRF Score = 5.00]
+[&WEIGHT=1.00](chimp,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),((tarsier,tarsier),tarsier)),(marmoset,sq_monkey)),((gibbon,gibbon),(((cyn_macaque,rhe_macaque),baboon),vervet))),orangutan),(human,gorilla)),bonobo));
+
+[ Gene Tree 363 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),orangutan),(bonobo,chimp)),human));
+
+[ Gene Tree 364 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),(gibbon,gibbon)),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 365 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,((((treeshrew,flying_lemur),(((marmoset,sq_monkey),(((vervet,(cyn_macaque,rhe_macaque)),baboon),gibbon)),tarsier)),bushbaby),mouse_lemur));
+
+[ Gene Tree 366 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((treeshrew,flying_lemur),mouse_lemur));
+
+[ Gene Tree 367 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),bushbaby),tarsier),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((human,bonobo),chimp),gorilla)));
+
+[ Gene Tree 368 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((human,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 369 MulRF Score = 0.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),(bonobo,chimp)));
+
+[ Gene Tree 370 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((treeshrew,flying_lemur),tarsier),(sq_monkey,marmoset)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 371 MulRF Score = 14.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),bushbaby),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),(vervet,baboon)),((baboon,(cyn_macaque,rhe_macaque)),vervet))),gibbon),(((chimp,human),bonobo),gorilla)));
+
+[ Gene Tree 372 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),((bushbaby,bushbaby),(mouse_lemur,mouse_lemur))),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 373 MulRF Score = 0.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,flying_lemur),bushbaby),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 374 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),sq_monkey),((cyn_macaque,rhe_macaque),(baboon,vervet))),(gibbon,gibbon)),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 375 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((((bushbaby,mouse_lemur),treeshrew),tarsier),sq_monkey),marmoset),(((cyn_macaque,rhe_macaque),vervet),baboon)),orangutan),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 376 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 377 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,(((((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),(bushbaby,bushbaby))),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),orangutan),gorilla),human));
+
+[ Gene Tree 378 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),(((human,bonobo),chimp),gorilla)));
+
+[ Gene Tree 379 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,mouse_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),(bonobo,chimp)));
+
+[ Gene Tree 380 MulRF Score = 22.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(((sq_monkey,marmoset),sq_monkey),marmoset)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),((chimp,(bonobo,human)),gorilla)),(orangutan,(((chimp,bonobo),gorilla),human))));
+
+[ Gene Tree 381 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),(flying_lemur,flying_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 382 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,treeshrew),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 383 MulRF Score = 2.00]
+[&WEIGHT=1.00](mouse_lemur,(((flying_lemur,(treeshrew,treeshrew)),((((vervet,baboon),(rhe_macaque,cyn_macaque)),(sq_monkey,marmoset)),tarsier)),bushbaby));
+
+[ Gene Tree 384 MulRF Score = 48.00]
+[&WEIGHT=1.00](human,(((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(((((gibbon,orangutan),(((rhe_macaque,cyn_macaque),baboon),vervet)),((orangutan,((human,(chimp,bonobo)),gorilla)),gibbon)),sq_monkey),tarsier)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),(gorilla,(chimp,bonobo))));
+
+[ Gene Tree 385 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,((((((((((flying_lemur,flying_lemur),treeshrew),(bushbaby,mouse_lemur)),(tarsier,tarsier)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),gibbon),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 386 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),((mouse_lemur,bushbaby),mouse_lemur)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),rhe_macaque),baboon)),gibbon),orangutan),(chimp,bonobo)),human));
+
+[ Gene Tree 387 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 388 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 389 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 390 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),(tarsier,tarsier)),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 391 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,((((((((bushbaby,mouse_lemur),(treeshrew,flying_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),(bonobo,human)));
+
+[ Gene Tree 392 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),bushbaby),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 393 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,((((((((((bushbaby,bushbaby),mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),orangutan),gibbon),human),bonobo));
+
+[ Gene Tree 394 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(chimp,gorilla)),human));
+
+[ Gene Tree 395 MulRF Score = 8.00]
+[&WEIGHT=1.00](human,(((((bushbaby,mouse_lemur),(flying_lemur,treeshrew)),(tarsier,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),(orangutan,gibbon))),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 396 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),((bushbaby,mouse_lemur),bushbaby)),tarsier),((marmoset,marmoset),sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 397 MulRF Score = 9.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(((bushbaby,bushbaby),mouse_lemur),bushbaby)),tarsier),(sq_monkey,marmoset)),gibbon),((cyn_macaque,rhe_macaque),(baboon,vervet))),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 398 MulRF Score = 7.00]
+[&WEIGHT=1.00](mouse_lemur,(((((((marmoset,sq_monkey),((((rhe_macaque,cyn_macaque),vervet),baboon),gibbon)),tarsier),(flying_lemur,treeshrew)),(bushbaby,mouse_lemur)),bushbaby),mouse_lemur));
+
+[ Gene Tree 399 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),((gorilla,(bonobo,chimp)),human)));
+
+[ Gene Tree 400 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),bushbaby),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 401 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((((mouse_lemur,bushbaby),(mouse_lemur,bushbaby)),treeshrew),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 402 MulRF Score = 23.00]
+[&WEIGHT=1.00](human,(((((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),((sq_monkey,sq_monkey),marmoset)),(gibbon,((gorilla,((chimp,bonobo),human)),orangutan))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),gorilla),(chimp,bonobo)),human));
+
+[ Gene Tree 403 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),flying_lemur),tarsier),sq_monkey),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((human,bonobo),chimp),gorilla)));
+
+[ Gene Tree 404 MulRF Score = 15.00]
+[&WEIGHT=1.00](gorilla,(((((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),baboon)),(((chimp,bonobo),gorilla),human)),gibbon),orangutan),(bonobo,chimp)));
+
+[ Gene Tree 405 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),((gorilla,human),(bonobo,chimp))));
+
+[ Gene Tree 406 MulRF Score = 2.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,flying_lemur),(((sq_monkey,marmoset),((vervet,(rhe_macaque,cyn_macaque)),baboon)),(tarsier,tarsier))),mouse_lemur));
+
+[ Gene Tree 407 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((bushbaby,mouse_lemur),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 408 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 409 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(vervet,baboon))),(((gorilla,chimp),human),bonobo)),gibbon));
+
+[ Gene Tree 410 MulRF Score = 40.00]
+[&WEIGHT=1.00](human,(((((((((((bushbaby,mouse_lemur),treeshrew),flying_lemur),tarsier),((marmoset,marmoset),sq_monkey)),((baboon,(vervet,(((rhe_macaque,rhe_macaque),cyn_macaque),cyn_macaque))),(gibbon,(orangutan,(((bonobo,chimp),gorilla),human))))),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 411 MulRF Score = 23.00]
+[&WEIGHT=1.00](orangutan,((((((((((flying_lemur,flying_lemur),flying_lemur),treeshrew),(bushbaby,mouse_lemur)),tarsier),sq_monkey),(((cyn_macaque,rhe_macaque),vervet),baboon)),((((chimp,(human,bonobo)),gorilla),orangutan),gibbon)),gibbon),(((bonobo,human),chimp),gorilla)));
+
+[ Gene Tree 412 MulRF Score = 26.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,(flying_lemur,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,baboon),vervet),cyn_macaque)),gibbon),((orangutan,((bonobo,chimp),(gorilla,human))),gibbon)),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 413 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((tarsier,flying_lemur),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 414 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),(human,chimp)),gorilla));
+
+[ Gene Tree 415 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,bushbaby),mouse_lemur),(treeshrew,flying_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 416 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((mouse_lemur,bushbaby),(treeshrew,treeshrew)),tarsier),(sq_monkey,marmoset)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 417 MulRF Score = 6.00]
+[&WEIGHT=1.00](bonobo,((((((((treeshrew,treeshrew),flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),((((cyn_macaque,rhe_macaque),baboon),vervet),gibbon)),((human,gorilla),orangutan)),chimp));
+
+[ Gene Tree 418 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),bushbaby),tarsier),((sq_monkey,marmoset),(sq_monkey,marmoset))),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 419 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((tarsier,mouse_lemur),(marmoset,sq_monkey)),(((cyn_macaque,baboon),rhe_macaque),vervet)),gibbon),((human,gorilla),(chimp,bonobo))));
+
+[ Gene Tree 420 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(bonobo,chimp)),(gorilla,human)));
+
+[ Gene Tree 421 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((((treeshrew,mouse_lemur),tarsier),(marmoset,sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),(chimp,bonobo)));
+
+[ Gene Tree 422 MulRF Score = 0.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 423 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,(((((((((mouse_lemur,mouse_lemur),bushbaby),(treeshrew,treeshrew)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((chimp,human),gorilla)),bonobo));
+
+[ Gene Tree 424 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),(treeshrew,treeshrew)),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((gorilla,(chimp,bonobo)),human)));
+
+[ Gene Tree 425 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,((((((mouse_lemur,bushbaby),treeshrew),(marmoset,sq_monkey)),gibbon),(gorilla,orangutan)),(chimp,bonobo)));
+
+[ Gene Tree 426 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),(vervet,baboon))),(((bonobo,chimp),human),orangutan)),gibbon));
+
+[ Gene Tree 427 MulRF Score = 38.00]
+[&WEIGHT=1.00](gorilla,((((((((((treeshrew,flying_lemur),mouse_lemur),tarsier),((vervet,(baboon,(rhe_macaque,cyn_macaque))),(gibbon,(orangutan,(gorilla,(chimp,(human,bonobo))))))),((marmoset,marmoset),sq_monkey)),((cyn_macaque,rhe_macaque),(vervet,baboon))),orangutan),gibbon),human),(bonobo,chimp)));
+
+[ Gene Tree 428 MulRF Score = 42.00]
+[&WEIGHT=1.00](bonobo,((((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),(((marmoset,sq_monkey),(gibbon,((orangutan,((human,(bonobo,chimp)),gorilla)),((cyn_macaque,rhe_macaque),(baboon,vervet))))),tarsier)),tarsier),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 429 MulRF Score = 21.00]
+[&WEIGHT=1.00](human,((((((((mouse_lemur,mouse_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),((((vervet,((cyn_macaque,rhe_macaque),baboon)),((cyn_macaque,rhe_macaque),baboon)),vervet),(baboon,((rhe_macaque,cyn_macaque),(vervet,baboon))))),gibbon),(gorilla,(chimp,bonobo))),orangutan));
+
+[ Gene Tree 430 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((bonobo,chimp),human),gorilla)),gibbon));
+
+[ Gene Tree 431 MulRF Score = 50.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,flying_lemur),((mouse_lemur,bushbaby),(bushbaby,(mouse_lemur,mouse_lemur)))),tarsier),((marmoset,sq_monkey),(((rhe_macaque,cyn_macaque),(vervet,baboon)),(gibbon,(((gorilla,human),(bonobo,chimp)),orangutan))))),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(baboon,vervet))),gibbon),(((bonobo,chimp),human),(gorilla,human))));
+
+[ Gene Tree 432 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 433 MulRF Score = 55.00]
+[&WEIGHT=1.00](orangutan,(((((((((((treeshrew,treeshrew),treeshrew),(flying_lemur,flying_lemur)),((((vervet,(cyn_macaque,rhe_macaque)),baboon),(gibbon,(orangutan,((human,gorilla),(bonobo,chimp))))),(sq_monkey,marmoset))),(mouse_lemur,bushbaby)),(mouse_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 434 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((marmoset,sq_monkey),(bushbaby,mouse_lemur)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((gorilla,human),(chimp,bonobo))),orangutan));
+
+[ Gene Tree 435 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((tarsier,((treeshrew,treeshrew),((bushbaby,mouse_lemur),flying_lemur))),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 436 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 437 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((treeshrew,treeshrew),(flying_lemur,bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((human,chimp),bonobo)));
+
+[ Gene Tree 438 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((((sq_monkey,marmoset),tarsier),flying_lemur),bushbaby));
+
+[ Gene Tree 439 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,treeshrew),((bushbaby,bushbaby),mouse_lemur)),(tarsier,tarsier)),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 440 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((((treeshrew,treeshrew),flying_lemur),tarsier),bushbaby));
+
+[ Gene Tree 441 MulRF Score = 6.00]
+[&WEIGHT=1.00](human,(((((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),(chimp,gorilla)),bonobo));
+
+[ Gene Tree 442 MulRF Score = 16.00]
+[&WEIGHT=1.00](human,(((((((((((bushbaby,mouse_lemur),flying_lemur),flying_lemur),(mouse_lemur,bushbaby)),tarsier),(((marmoset,sq_monkey),(marmoset,sq_monkey)),(sq_monkey,marmoset))),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(bonobo,chimp)),gorilla));
+
+[ Gene Tree 443 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,(((treeshrew,flying_lemur),tarsier),bushbaby));
+
+[ Gene Tree 444 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),human),orangutan)));
+
+[ Gene Tree 445 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((((flying_lemur,flying_lemur),treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((human,gorilla),(bonobo,chimp))));
+
+[ Gene Tree 446 MulRF Score = 0.00]
+[&WEIGHT=1.00](chimp,((((((((((treeshrew,flying_lemur),bushbaby),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 447 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),bushbaby),tarsier),((marmoset,marmoset),sq_monkey)),((rhe_macaque,cyn_macaque),(baboon,vervet))),gibbon),orangutan),(gorilla,human)),chimp));
+
+[ Gene Tree 448 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((((flying_lemur,flying_lemur),(mouse_lemur,bushbaby)),treeshrew),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(chimp,bonobo)),human));
+
+[ Gene Tree 449 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((flying_lemur,treeshrew),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),((cyn_macaque,rhe_macaque),(baboon,vervet))),(((chimp,bonobo),human),gorilla)),gibbon));
+
+[ Gene Tree 450 MulRF Score = 54.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(((((baboon,((rhe_macaque,cyn_macaque),vervet)),(gibbon,((orangutan,((bonobo,chimp),human)),gorilla))),(sq_monkey,marmoset)),tarsier),(mouse_lemur,bushbaby))),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 451 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(mouse_lemur,mouse_lemur)),tarsier),(sq_monkey,marmoset)),((rhe_macaque,cyn_macaque),vervet)),gibbon),(((human,chimp),gorilla),bonobo)));
+
+[ Gene Tree 452 MulRF Score = 8.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),(flying_lemur,(treeshrew,treeshrew))),tarsier),(marmoset,sq_monkey)),(gibbon,orangutan)),((vervet,baboon),(cyn_macaque,rhe_macaque))),human),(chimp,bonobo)));
+
+[ Gene Tree 453 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((treeshrew,flying_lemur),bushbaby),tarsier),(sq_monkey,marmoset)),orangutan),gibbon),gorilla),human),chimp));
+
+[ Gene Tree 454 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,bushbaby),flying_lemur),tarsier),marmoset),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),gorilla),human)),orangutan));
+
+[ Gene Tree 455 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,(((treeshrew,treeshrew),flying_lemur),mouse_lemur));
+
+[ Gene Tree 456 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,flying_lemur),treeshrew),((bushbaby,bushbaby),mouse_lemur)),tarsier),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 457 MulRF Score = 6.00]
+[&WEIGHT=1.00](human,(((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),((gibbon,gibbon),orangutan)),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 458 MulRF Score = 8.00]
+[&WEIGHT=1.00](human,((((((((((flying_lemur,flying_lemur),treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),gibbon),(chimp,gorilla)),bonobo));
+
+[ Gene Tree 459 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,(((tarsier,tarsier),treeshrew),bushbaby));
+
+[ Gene Tree 460 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),((treeshrew,treeshrew),flying_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 461 MulRF Score = 2.00]
+[&WEIGHT=1.00](bonobo,(((((((((flying_lemur,treeshrew),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(human,gorilla)),chimp));
+
+[ Gene Tree 462 MulRF Score = 0.00]
+[&WEIGHT=1.00](bonobo,((((((((((flying_lemur,treeshrew),((mouse_lemur,mouse_lemur),bushbaby)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 463 MulRF Score = 5.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,((flying_lemur,flying_lemur),flying_lemur)),mouse_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(chimp,bonobo)),(human,gorilla)));
+
+[ Gene Tree 464 MulRF Score = 2.00]
+[&WEIGHT=1.00](chimp,(((((((((flying_lemur,treeshrew),mouse_lemur),(marmoset,sq_monkey)),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),orangutan),gorilla),human),bonobo));
+
+[ Gene Tree 465 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),(flying_lemur,flying_lemur)),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((human,chimp),(gorilla,gorilla)),bonobo)));
+
+[ Gene Tree 466 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((mouse_lemur,bushbaby),treeshrew),flying_lemur),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),gorilla),human)));
+
+[ Gene Tree 467 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(bushbaby,mouse_lemur)),tarsier),sq_monkey),((rhe_macaque,cyn_macaque),(vervet,baboon))),gibbon),((gorilla,human),(chimp,bonobo))));
+
+[ Gene Tree 468 MulRF Score = 2.00]
+[&WEIGHT=1.00](gorilla,((((((((bushbaby,mouse_lemur),((flying_lemur,flying_lemur),treeshrew)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((human,chimp),bonobo)));
+
+[ Gene Tree 469 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,treeshrew),((bushbaby,bushbaby),mouse_lemur)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 470 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),marmoset),(((cyn_macaque,rhe_macaque),vervet),baboon)),gibbon),((human,chimp),(bonobo,gorilla))));
+
+[ Gene Tree 471 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((human,bonobo),chimp)));
+
+[ Gene Tree 472 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,((((((((flying_lemur,(treeshrew,treeshrew)),(mouse_lemur,bushbaby)),(tarsier,tarsier)),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((bonobo,chimp),human)));
+
+[ Gene Tree 473 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 474 MulRF Score = 4.00]
+[&WEIGHT=1.00](bonobo,(((((((((mouse_lemur,bushbaby),flying_lemur),(tarsier,tarsier)),(marmoset,sq_monkey)),((vervet,(rhe_macaque,cyn_macaque)),baboon)),gibbon),(gorilla,orangutan)),human),chimp));
+
+[ Gene Tree 475 MulRF Score = 4.00]
+[&WEIGHT=1.00](human,(((((((((bushbaby,mouse_lemur),flying_lemur),treeshrew),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),(gorilla,(bonobo,chimp))));
+
+[ Gene Tree 476 MulRF Score = 0.00]
+[&WEIGHT=1.00](bushbaby,((flying_lemur,treeshrew),mouse_lemur));
+
+[ Gene Tree 477 MulRF Score = 9.00]
+[&WEIGHT=1.00](bonobo,((((((((((treeshrew,flying_lemur),((bushbaby,bushbaby),(mouse_lemur,mouse_lemur))),tarsier),((sq_monkey,marmoset),((marmoset,marmoset),sq_monkey))),(((cyn_macaque,baboon),vervet),rhe_macaque)),gibbon),orangutan),gorilla),human),chimp));
+
+[ Gene Tree 478 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),(mouse_lemur,bushbaby)),tarsier),((marmoset,marmoset),sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),(((bonobo,chimp),gorilla),human)));
+
+[ Gene Tree 479 MulRF Score = 4.00]
+[&WEIGHT=1.00](chimp,(((((((((treeshrew,flying_lemur),mouse_lemur),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),(gorilla,bonobo)));
+
+[ Gene Tree 480 MulRF Score = 0.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,treeshrew),flying_lemur),mouse_lemur),tarsier),((sq_monkey,sq_monkey),marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),(human,gorilla)));
+
+[ Gene Tree 481 MulRF Score = 6.00]
+[&WEIGHT=1.00](gorilla,(((((((((flying_lemur,flying_lemur),(treeshrew,treeshrew)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),vervet),baboon)),gibbon),orangutan),bonobo),(human,chimp)));
+
+[ Gene Tree 482 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),((bushbaby,bushbaby),mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((rhe_macaque,cyn_macaque),baboon),vervet)),(((chimp,bonobo),human),gorilla)),gibbon));
+
+[ Gene Tree 483 MulRF Score = 36.00]
+[&WEIGHT=1.00](gorilla,((((((((((treeshrew,flying_lemur),bushbaby),tarsier),(sq_monkey,marmoset)),(gibbon,((gorilla,(bonobo,(chimp,human))),orangutan))),(((cyn_macaque,rhe_macaque),baboon),vervet)),((cyn_macaque,rhe_macaque),(vervet,baboon))),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 484 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,(((((((bushbaby,mouse_lemur),treeshrew),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 485 MulRF Score = 10.00]
+[&WEIGHT=1.00](human,((((((((((treeshrew,flying_lemur),flying_lemur),(mouse_lemur,bushbaby)),(tarsier,tarsier)),(marmoset,sq_monkey)),((vervet,cyn_macaque),(rhe_macaque,baboon))),gibbon),(bonobo,chimp)),orangutan),gorilla));
+
+[ Gene Tree 486 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),marmoset),((vervet,baboon),(cyn_macaque,rhe_macaque))),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 487 MulRF Score = 0.00]
+[&WEIGHT=1.00](mouse_lemur,((treeshrew,flying_lemur),bushbaby));
+
+[ Gene Tree 488 MulRF Score = 4.00]
+[&WEIGHT=1.00](gorilla,((((((((((flying_lemur,treeshrew),(bushbaby,mouse_lemur)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),human),bonobo),chimp));
+
+[ Gene Tree 489 MulRF Score = 6.00]
+[&WEIGHT=1.00](orangutan,(((((((treeshrew,flying_lemur),mouse_lemur),(sq_monkey,marmoset)),(((rhe_macaque,baboon),cyn_macaque),vervet)),gibbon),human),((bonobo,chimp),gorilla)));
+
+[ Gene Tree 490 MulRF Score = 78.00]
+[&WEIGHT=1.00](gorilla,(((((((((((treeshrew,((((sq_monkey,marmoset),(((((gorilla,(bonobo,chimp)),human),orangutan),gibbon),(vervet,((cyn_macaque,rhe_macaque),baboon)))),(tarsier,tarsier)),(bushbaby,mouse_lemur))),flying_lemur),flying_lemur),(mouse_lemur,bushbaby)),(((marmoset,sq_monkey),(((vervet,((rhe_macaque,cyn_macaque),baboon)),((rhe_macaque,cyn_macaque),(baboon,vervet))),((orangutan,(gorilla,((chimp,bonobo),human))),gibbon))),tarsier)),tarsier),(marmoset,sq_monkey)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),orangutan),((chimp,bonobo),human)));
+
+[ Gene Tree 491 MulRF Score = 0.00]
+[&WEIGHT=1.00](gorilla,(((((((mouse_lemur,bushbaby),(flying_lemur,treeshrew)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),gibbon),((chimp,bonobo),human)));
+
+[ Gene Tree 492 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,((((((((treeshrew,treeshrew),flying_lemur),(mouse_lemur,bushbaby)),tarsier),sq_monkey),((((cyn_macaque,(rhe_macaque,cyn_macaque)),rhe_macaque),baboon),vervet)),gibbon),(((chimp,bonobo),human),gorilla)));
+
+[ Gene Tree 493 MulRF Score = 2.00]
+[&WEIGHT=1.00](orangutan,(((((((mouse_lemur,bushbaby),treeshrew),tarsier),((marmoset,marmoset),sq_monkey)),((cyn_macaque,vervet),rhe_macaque)),gibbon),(((bonobo,chimp),human),gorilla)));
+
+[ Gene Tree 494 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((((mouse_lemur,bushbaby),treeshrew),(tarsier,tarsier)),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),orangutan),(chimp,bonobo)),gorilla));
+
+[ Gene Tree 495 MulRF Score = 2.00]
+[&WEIGHT=1.00](human,(((((((bushbaby,mouse_lemur),flying_lemur),tarsier),(marmoset,sq_monkey)),(((rhe_macaque,cyn_macaque),baboon),vervet)),gibbon),((chimp,bonobo),gorilla)));
+
+[ Gene Tree 496 MulRF Score = 8.00]
+[&WEIGHT=1.00](orangutan,((((((((bushbaby,mouse_lemur),treeshrew),flying_lemur),tarsier),((marmoset,marmoset),sq_monkey)),((cyn_macaque,rhe_macaque),(baboon,vervet))),(((chimp,human),bonobo),gorilla)),gibbon));
+
+[ Gene Tree 497 MulRF Score = 14.00]
+[&WEIGHT=1.00](gorilla,(((((((flying_lemur,mouse_lemur),tarsier),(marmoset,sq_monkey)),((vervet,baboon),(rhe_macaque,cyn_macaque))),gibbon),orangutan),(((chimp,bonobo),human),(gorilla,((chimp,bonobo),human)))));
+
+[ Gene Tree 498 MulRF Score = 8.00]
+[&WEIGHT=1.00](bonobo,((((tarsier,treeshrew),(sq_monkey,marmoset)),((vervet,vervet),((chimp,gorilla),gibbon))),orangutan));
+
+[ Gene Tree 499 MulRF Score = 4.00]
+[&WEIGHT=1.00](orangutan,(((((((bushbaby,mouse_lemur),((flying_lemur,flying_lemur),treeshrew)),tarsier),(sq_monkey,marmoset)),(((cyn_macaque,rhe_macaque),baboon),vervet)),(((chimp,bonobo),gorilla),human)),gibbon));
+
+[ Time 0d 0h 0m 16s ]
